@@ -4,7 +4,7 @@
 
 # Awesome Kling 4.0 Prompts
 
-### 52 original, production-ready Kling AI video prompt recipes with 15-language project guides
+### 52 complete Kling AI video prompt recipes with full README translations in 15 languages
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-5b8cff.svg)](LICENSE)
@@ -39,21 +39,21 @@ An original, production-oriented library of complete Kling AI video prompts for 
 18 source-linked cases. Explore the newest examples below, follow published prompt text or labeled screenshots, then try the separate original exercises.
 
 <table><tr>
-<td width="450" valign="top"><a href="https://x.com/minchoi/status/2104634610629980283"><img src="https://pbs.twimg.com/amplify_video_thumb/2104634107770638337/img/Zu3sG7ZvBZ7Ng25V.jpg" width="450" alt="Single-prompt continuous take"></a><br><strong>Single-prompt continuous take</strong><br><a href="https://x.com/minchoi/status/2104634610629980283">@minchoi · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#long-take">Separate practice / 另写练习</a></td>
-<td width="450" valign="top"><a href="https://x.com/ozansihay/status/2104676090233151927"><img src="https://pbs.twimg.com/amplify_video_thumb/2104675865070104576/img/5WxoMwDabxCtoqMj.jpg" width="450" alt="Text-to-video without named actors"></a><br><strong>Text-to-video without named actors</strong><br><a href="https://x.com/ozansihay/status/2104676090233151927">@ozansihay · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#casting">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/minchoi/status/2104634610629980283"><img src="https://pbs.twimg.com/amplify_video_thumb/2104634107770638337/img/Zu3sG7ZvBZ7Ng25V.jpg" width="450" alt="Single-prompt continuous take"></a><br><strong>Single-prompt continuous take</strong><br><a href="https://x.com/minchoi/status/2104634610629980283">@minchoi · X</a><br>Full prompt unavailable<br><a href="prompts/x-inspired-practice.md#long-take">Separate practice</a></td>
+<td width="450" valign="top"><a href="https://x.com/ozansihay/status/2104676090233151927"><img src="https://pbs.twimg.com/amplify_video_thumb/2104675865070104576/img/5WxoMwDabxCtoqMj.jpg" width="450" alt="Text-to-video without named actors"></a><br><strong>Text-to-video without named actors</strong><br><a href="https://x.com/ozansihay/status/2104676090233151927">@ozansihay · X</a><br>Full prompt unavailable<br><a href="prompts/x-inspired-practice.md#casting">Separate practice</a></td>
 </tr></table>
 
 <table><tr>
-<td width="450" valign="top"><a href="https://x.com/ozansihay/status/2104687711525490961"><img src="https://pbs.twimg.com/amplify_video_thumb/2104687513444978688/img/b0a0IlXgzKwFK1M9.jpg" width="450" alt="Omni Reference and character-sheet instructions"></a><br><strong>Omni Reference and character-sheet instructions</strong><br><a href="https://x.com/ozansihay/status/2104687711525490961">@ozansihay · X</a><br><a href="https://x.com/ozansihay/status/2104687714800992598">Partial screenshot / 局部截图</a><br><a href="prompts/x-inspired-practice.md#references">Separate practice / 另写练习</a></td>
-<td width="450" valign="top"><a href="https://x.com/towya_aillust/status/2104600267887145254"><img src="https://pbs.twimg.com/amplify_video_thumb/2104598500319363072/img/j4ERZh1dCcIU5Xm3.jpg" width="450" alt="Japanese dialogue and a longer edited story"></a><br><strong>Japanese dialogue and a longer edited story</strong><br><a href="https://x.com/towya_aillust/status/2104600267887145254">@towya_aillust · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#references">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/ozansihay/status/2104687711525490961"><img src="https://pbs.twimg.com/amplify_video_thumb/2104687513444978688/img/b0a0IlXgzKwFK1M9.jpg" width="450" alt="Omni Reference and character-sheet instructions"></a><br><strong>Omni Reference and character-sheet instructions</strong><br><a href="https://x.com/ozansihay/status/2104687711525490961">@ozansihay · X</a><br><a href="https://x.com/ozansihay/status/2104687714800992598">Partial prompt screenshot</a><br><a href="prompts/x-inspired-practice.md#references">Separate practice</a></td>
+<td width="450" valign="top"><a href="https://x.com/towya_aillust/status/2104600267887145254"><img src="https://pbs.twimg.com/amplify_video_thumb/2104598500319363072/img/j4ERZh1dCcIU5Xm3.jpg" width="450" alt="Japanese dialogue and a longer edited story"></a><br><strong>Japanese dialogue and a longer edited story</strong><br><a href="https://x.com/towya_aillust/status/2104600267887145254">@towya_aillust · X</a><br>Full prompt unavailable<br><a href="prompts/x-inspired-practice.md#references">Separate practice</a></td>
 </tr></table>
 
 <table><tr>
-<td width="450" valign="top"><a href="https://x.com/agi_aibusi/status/2104690941194100858"><img src="https://pbs.twimg.com/amplify_video_thumb/2104688806490415104/img/OwEb9nyZcwe-7KR3.jpg" width="450" alt="Short photoreal test and cost reporting"></a><br><strong>Short photoreal test and cost reporting</strong><br><a href="https://x.com/agi_aibusi/status/2104690941194100858">@agi_aibusi · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#casting">Separate practice / 另写练习</a></td>
-<td width="450" valign="top"><a href="https://x.com/sebatheepan/status/2104706256963244436"><img src="https://pbs.twimg.com/amplify_video_thumb/2104706027337678848/img/9jqceggPW1bwjP5Z.jpg" width="450" alt="Published dialogue prompt and same-brief comparison"></a><br><strong>Published dialogue prompt and same-brief comparison</strong><br><a href="https://x.com/sebatheepan/status/2104706256963244436">@sebatheepan · X</a><br><a href="https://x.com/sebatheepan/status/2104706256963244436">Creator prompt / 原提示词</a><br><a href="prompts/x-inspired-practice.md#dialogue-comparison">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/agi_aibusi/status/2104690941194100858"><img src="https://pbs.twimg.com/amplify_video_thumb/2104688806490415104/img/OwEb9nyZcwe-7KR3.jpg" width="450" alt="Short photoreal test and cost reporting"></a><br><strong>Short photoreal test and cost reporting</strong><br><a href="https://x.com/agi_aibusi/status/2104690941194100858">@agi_aibusi · X</a><br>Full prompt unavailable<br><a href="prompts/x-inspired-practice.md#casting">Separate practice</a></td>
+<td width="450" valign="top"><a href="https://x.com/sebatheepan/status/2104706256963244436"><img src="https://pbs.twimg.com/amplify_video_thumb/2104706027337678848/img/9jqceggPW1bwjP5Z.jpg" width="450" alt="Published dialogue prompt and same-brief comparison"></a><br><strong>Published dialogue prompt and same-brief comparison</strong><br><a href="https://x.com/sebatheepan/status/2104706256963244436">@sebatheepan · X</a><br><a href="https://x.com/sebatheepan/status/2104706256963244436">Creator prompt</a><br><a href="prompts/x-inspired-practice.md#dialogue-comparison">Separate practice</a></td>
 </tr></table>
 
-[All cases / 全部案例](docs/X-VIDEOS.md) · [4 inherited exercises / 继承练习](prompts/inherited-flash-exercises.md) · [2 Flyne exercises / 原有练习](prompts/flyne-practice.md) · [4 new exercises / 本轮新增练习](prompts/x-inspired-practice.md)
+[All cases](docs/X-VIDEOS.md) · [4 inherited exercises](prompts/inherited-flash-exercises.md) · [2 Flyne exercises](prompts/flyne-practice.md) · [4 new exercises](prompts/x-inspired-practice.md)
 <!-- video-showcase:end -->
 
 ## Find the right prompt in under a minute
@@ -238,13 +238,13 @@ The [master index](prompts/README.md) also filters prompts by goal and recommend
 
 ## Language and localization
 
-The project now has guides in **15 languages**:
+The project has aligned README translations in **15 languages**:
 
 - English, Simplified Chinese, Traditional Chinese, Japanese and Korean;
 - Spanish, French, German, Brazilian Portuguese and Italian;
 - Arabic, Russian, Bahasa Indonesia, Thai and Vietnamese.
 
-The canonical prompt files remain in English so complex timings and camera instructions do not silently diverge. Localized guides provide a translated quick template, model-status warning, Flyne AI overview and stable links to the same prompt IDs. See the [language matrix and localization rules](docs/LANGUAGES.md).
+The canonical prompt files remain in English so complex timings and camera instructions do not silently diverge. Every localized README follows this English page: model status, X examples, prompt templates, illustrated highlights, the full catalog, checklists, FAQ, API recommendations and affiliate information. The 52 linked recipe files remain in English; the two prompt blocks on this page are translated. See the [language matrix and localization rules](docs/LANGUAGES.md).
 
 > Documentation language ≠ native speech support. The verified Kling 3.0 native-dialogue list contains Chinese, English, Japanese, Korean and Spanish. Kling AI announced broader multilingual and accent support for full 4.0; check the selected mode and review generated speech before publishing.
 
@@ -275,7 +275,7 @@ Create one primary anchor, list its invariant properties before motion, bind the
 
 ### Can prompts be written in different languages?
 
-Yes. This project provides 15-language quick-start guidance. Verified Kling 3.0 native dialogue is documented for Chinese, English, Japanese, Korean and Spanish. Keep language, speaker, tone and line ownership explicit, then verify pronunciation and wording.
+Yes. This project provides complete README translations in 15 languages. Verified Kling 3.0 native dialogue is documented for Chinese, English, Japanese, Korean and Spanish. Keep language, speaker, tone and line ownership explicit, then verify pronunciation and wording.
 
 ### Are the prompts free to use?
 

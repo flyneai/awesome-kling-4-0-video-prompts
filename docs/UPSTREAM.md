@@ -20,6 +20,6 @@ X authors retain rights to posts, thumbnails and footage. External media is link
 2. Edit `data/locales.json`, then run `python3 scripts/build_brand_sections.py` for all language introductions and footers.
 3. Add cases to `data/x-cases.json`, including original URL, creator, model claim, prompt availability, date, verification method, media and rights. Set `is_new` only for Flyne additions. Do not promote inherited checks to new verification dates.
 4. Keep the 52 catalog recipes, four inherited exercises and six Flyne exercises separately counted. Link a [test record](TEST-RECORD.md) before claiming any practice was render-tested.
-5. Run `python3 scripts/build_gallery.py`, both generators with `--check`, `python3 scripts/check_content.py`, and `git diff --check`.
+5. Run `python3 scripts/build_gallery.py`, update all README translation maps, then run `python3 scripts/build_readme_translations.py`. Check all three generators with `--check`, `python3 scripts/check_readme_parity.py`, `python3 scripts/check_content.py`, and `git diff --check`.
 6. Recheck provider controls and terms when updating product claims. Record the actual model used. A Turbo draft is not a 4.0 result.
 7. Check external media periodically when maintaining the project. If a URL fails, keep the original source link and flag the failure; do not substitute unrelated footage.

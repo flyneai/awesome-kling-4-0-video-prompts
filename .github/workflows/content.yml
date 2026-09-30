@@ -12,5 +12,7 @@ jobs:
           python-version: '3.12'
       - run: python3 scripts/build_brand_sections.py --check
       - run: python3 scripts/build_gallery.py --check
+      - run: python3 scripts/build_readme_translations.py --check
+      - run: python3 scripts/check_readme_parity.py
       - run: python3 scripts/check_content.py
       - run: git diff --check

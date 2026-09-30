@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Prompt catalog](../prompts/README.md) · [Multilingual audio](MULTILINGUAL-AUDIO.md)
 
-This repository provides navigation and quick-start guidance in **15 languages**. Language coverage in the repository is not the same as native speech support in a video model.
+This repository provides complete aligned README translations in **15 languages**. Language coverage in the repository is not the same as native speech support in a video model.
 
 > **Verified Kling Video 3.0 native-dialogue languages:** Chinese, English, Japanese, Korean and Spanish. Other languages below are documentation/localization languages. For unsupported spoken dialogue, test the live model first or generate clean visuals and add verified voice-over in post-production.
 
@@ -14,35 +14,43 @@ Kling AI has announced broader language, accent and dialect support for the full
 |---|---|---:|---:|
 | English | [README](../README.md) | Full | Yes |
 | 简体中文 | [使用指南](../README.zh-CN.md) | Full | 是 |
-| 繁體中文 | [使用指南](../README.zh-TW.md) | Quick start | 是 |
-| 日本語 | [ガイド](../README.ja-JP.md) | Quick start | 対応 |
-| 한국어 | [가이드](../README.ko-KR.md) | Quick start | 지원 |
-| Español | [Guía](../README.es-ES.md) | Quick start | Sí |
-| Français | [Guide](../README.fr-FR.md) | Quick start | Not in verified list |
-| Deutsch | [Leitfaden](../README.de-DE.md) | Quick start | Not in verified list |
-| Português (Brasil) | [Guia](../README.pt-BR.md) | Quick start | Not in verified list |
-| Italiano | [Guida](../README.it-IT.md) | Quick start | Not in verified list |
-| العربية | [الدليل](../README.ar.md) | Quick start | Not in verified list |
-| Русский | [Руководство](../README.ru-RU.md) | Quick start | Not in verified list |
-| Bahasa Indonesia | [Panduan](../README.id-ID.md) | Quick start | Not in verified list |
-| ไทย | [คู่มือ](../README.th-TH.md) | Quick start | Not in verified list |
-| Tiếng Việt | [Hướng dẫn](../README.vi-VN.md) | Quick start | Not in verified list |
+| 繁體中文 | [使用指南](../README.zh-TW.md) | Full | 是 |
+| 日本語 | [ガイド](../README.ja-JP.md) | Full | 対応 |
+| 한국어 | [가이드](../README.ko-KR.md) | Full | 지원 |
+| Español | [Guía](../README.es-ES.md) | Full | Sí |
+| Français | [Guide](../README.fr-FR.md) | Full | Not in verified list |
+| Deutsch | [Leitfaden](../README.de-DE.md) | Full | Not in verified list |
+| Português (Brasil) | [Guia](../README.pt-BR.md) | Full | Not in verified list |
+| Italiano | [Guida](../README.it-IT.md) | Full | Not in verified list |
+| العربية | [الدليل](../README.ar.md) | Full | Not in verified list |
+| Русский | [Руководство](../README.ru-RU.md) | Full | Not in verified list |
+| Bahasa Indonesia | [Panduan](../README.id-ID.md) | Full | Not in verified list |
+| ไทย | [คู่มือ](../README.th-TH.md) | Full | Not in verified list |
+| Tiếng Việt | [Hướng dẫn](../README.vi-VN.md) | Full | Not in verified list |
 
 ## What is localized
 
 | Content | English | Simplified Chinese | Other 13 languages |
 |---|---:|---:|---:|
-| Project positioning and model-status warning | Full | Full | Summary |
-| Kling 4.0 Flash/full-model capability boundary | Full | Full | Localized status and feature summary |
-| X demo links, creator-test caveat and original 15-second starter | Full | Full | All six examples and a fully localized starter |
-| Prompt catalog navigation | Full | Full | Linked |
-| Universal prompt structure | Full | Full | Localized quick template |
-| 52 production prompts | Canonical English source | Canonical source linked | Canonical source linked |
-| Native-audio examples | Five-language shared guide | Five-language shared guide | Shared guide with support warning |
-| Flyne AI introduction and affiliate cooperation | Full | Full | Localized summary |
-| Four new X cases and four Flyne AI exercises | Linked bilingual guide | Linked bilingual guide | Shared guide linked; exercise text remains English |
+| Full README: positioning, status, examples, catalog, checklists, FAQ and contributing | Full | Full translation | Full translation |
+| Six homepage X preview cards and all source links | Full | Full translation | Full translation |
+| Bicycle-light starter and universal prompt template on the README | English | Translated | Translated |
+| Four illustrated highlights, source links and image destinations | Full | Full translation | Full translation |
+| Flyne overview, four FLAQ API recommendations and affiliate section | Full | Full translation | Full translation |
+| 52 linked production recipes | Canonical English source | English source linked | English source linked |
+| Linked X notes and supplementary exercises | Shared documents | Shared documents | Shared documents |
 
-The English prompt files are the canonical technical source. This prevents 52 complex shot plans from silently drifting across multiple translations. Localized guides explain the method and route readers to stable prompt IDs. Release-status facts, source links and the six X examples are synchronized across all 15 README languages as of 29 September 2026; the other 13 pages remain shorter guides rather than line-by-line copies of the full English README.
+The English README is the source for all 14 translations. This scope covers the complete homepage, not translations of every linked document or all 52 recipe files. Model-dialogue support remains separate from documentation language.
+
+## Keeping translations aligned
+
+1. Update `README.md`; update shared brand copy in `data/locales.json` and case data in `data/x-cases.json` when needed.
+2. Run `python3 scripts/build_brand_sections.py` and `python3 scripts/build_gallery.py` to finish the English source.
+3. Review and update every translation map in `data/readme-translations/`. Keys are exact English text segments. Translate new or changed segments and update `source_sha256` only after reviewing the new source. These files include translated image descriptions and both homepage prompt blocks.
+4. Run `python3 scripts/build_readme_translations.py` to rebuild the other 14 READMEs. Do not edit their generated bodies directly.
+5. Run all three generators with `--check`, then `python3 scripts/check_readme_parity.py`, `python3 scripts/check_content.py`, and `git diff --check`.
+
+The parity check compares heading levels, tables, code-block counts, example cards, links and image destinations. Explicit anchors keep internal links stable after heading translation. The source hash flags subsequent English edits. These checks detect omissions and structural drift; they do not prove translation fluency.
 
 ## Shared prompt labels
 

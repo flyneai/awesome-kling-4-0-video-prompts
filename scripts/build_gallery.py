@@ -33,7 +33,7 @@ def main():
         cards.append(f'<article><h2>{html.escape(c["title"])}</h2><p>{html.escape(c["title_zh"])}</p><p><a href="{c["url"]}">@{c["handle"]} · X</a></p><p>{html.escape(c["model_claim"])}</p>'+''.join(media)+f'<p>{html.escape(c["lesson"])}</p><p>{html.escape(c["lesson_zh"])}</p><p>{html.escape(evidence)}</p><p>'+ ' · '.join(links)+'</p></article>')
     outputs={ROOT/'docs/X-VIDEOS.md':'\n\n'.join(md)+'\n'}
     outputs[ROOT/'docs/gallery.html']='''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Flyne AI — Kling video examples</title><style>body{margin:0;background:#101927;color:#e8eef8;font:16px/1.6 system-ui}header,main,footer{max-width:1100px;margin:auto;padding:24px}a{color:#85dcff}main{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:24px}article{padding:20px;background:#1c2a3d;border-radius:12px}video{width:100%;max-height:380px}h1{font-size:36px}h2{font-size:22px}</style><header><p>FLYNE AI · COMMUNITY EXAMPLES</p><h1>Kling 4.0 / Flash: videos & prompt lessons</h1><p>'''+html.escape(intro)+'</p><p>'+html.escape(zh)+'''</p><a href="https://flyne.ai/model/kling-4-0/">Flyne AI</a></header><main>'''+''.join(cards)+'''</main><footer>External creator media, not Flyne generation results. Outside the repository MIT license. If playback fails, use the original X post.</footer></html>\n'''
-    for lang,name in [('en','README.md'),('zh','README.zh-CN.md')]:
+    for lang,name in [('en','README.md')]:
         p=ROOT/name;s=p.read_text()
         block='<!-- video-showcase:start -->\n## '+('Watch a test, then try a prompt' if lang=='en' else '先看案例，再复制提示词')+'\n\n'
         block+=(f'{count} source-linked cases. Explore the newest examples below, follow published prompt text or labeled screenshots, then try the separate original exercises.' if lang=='en' else f'{count} 个带来源的案例。下面展示本轮新增内容，可查看作者公开的提示词或注明不完整的截图，再尝试另写的原创练习。')+'\n\n'
@@ -41,10 +41,10 @@ def main():
         for i,c in enumerate(cases[-6:]):
             if i and i%2==0:block+='</tr></table>\n\n<table><tr>\n'
             v=c['videos'][0];title=c['title'] if lang=='en' else c['title_zh']
-            source=f'<a href="{c["prompt_url"]}">Creator prompt / 原提示词</a>' if c['prompt_url'] else 'Full prompt unavailable / 未公开完整提示词'
-            if c['prompt_status']=='partial-screenshot-at-source':source=source.replace('Creator prompt / 原提示词','Partial screenshot / 局部截图')
-            block+=f'<td width="450" valign="top"><a href="{c["url"]}"><img src="{v["poster"]}" width="450" alt="{html.escape(title)}"></a><br><strong>{html.escape(title)}</strong><br><a href="{c["url"]}">@{c["handle"]} · X</a><br>{source}<br><a href="{c["exercise"].removeprefix("../")}">Separate practice / 另写练习</a></td>\n'
-        block+='</tr></table>\n\n[All cases / 全部案例](docs/X-VIDEOS.md) · [4 inherited exercises / 继承练习](prompts/inherited-flash-exercises.md) · [2 Flyne exercises / 原有练习](prompts/flyne-practice.md) · [4 new exercises / 本轮新增练习](prompts/x-inspired-practice.md)\n<!-- video-showcase:end -->'
+            source=f'<a href="{c["prompt_url"]}">Creator prompt</a>' if c['prompt_url'] else 'Full prompt unavailable'
+            if c['prompt_status']=='partial-screenshot-at-source':source=source.replace('Creator prompt','Partial prompt screenshot')
+            block+=f'<td width="450" valign="top"><a href="{c["url"]}"><img src="{v["poster"]}" width="450" alt="{html.escape(title)}"></a><br><strong>{html.escape(title)}</strong><br><a href="{c["url"]}">@{c["handle"]} · X</a><br>{source}<br><a href="{c["exercise"].removeprefix("../")}">Separate practice</a></td>\n'
+        block+='</tr></table>\n\n[All cases](docs/X-VIDEOS.md) · [4 inherited exercises](prompts/inherited-flash-exercises.md) · [2 Flyne exercises](prompts/flyne-practice.md) · [4 new exercises](prompts/x-inspired-practice.md)\n<!-- video-showcase:end -->'
         outputs[p]=re.sub(r'<!-- video-showcase:start -->[\s\S]*?<!-- video-showcase:end -->',lambda m:block,s)
     changed=[]
     for p,out in outputs.items():

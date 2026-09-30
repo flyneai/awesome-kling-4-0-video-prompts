@@ -1,3 +1,10 @@
+# Full README localization — 2026-09-30
+
+- Align all 14 non-English READMEs with the complete English homepage, including the 18-case gallery overview, six preview cards, both prompt blocks, four illustrated highlights, 13 collections, checklist, FAQ, sources, contribution steps and provider sections.
+- Add source-keyed translation maps and an offline generator; source hashes flag later English changes.
+- Preserve link destinations and technical aspect ratios; add structural parity checks to CI and document the maintenance order.
+- Keep linked recipe files and supplementary documents in their existing languages; this update covers README content.
+
 # X examples and practical prompts — 2026-09-30
 
 - Expand from 12 to 18 source-linked cases with continuous takes, reference sheets, Japanese production and a full-prompt dialogue comparison.

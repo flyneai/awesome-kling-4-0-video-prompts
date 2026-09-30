@@ -17,3 +17,7 @@ The prior 2026-09-29 source checks remain attached to inherited case records. Th
 - Six additional cases bring the gallery to 18; four new original exercises bring Flyne practice prompts to six.
 - Pan’s Kling reply includes a full prompt; its parent video is labeled Seedance and was not imported as a Kling clip. Ozan’s screenshot is labeled partial, not a full prompt.
 - New media accessibility results: [six videos and six posters](../data/media-check-expansion-20260930.json). All six video HEAD requests returned HTTP 200. All six poster requests returned HTTP 403 with both HEAD and GET in this environment; preview availability is unresolved. Original post links remain available. HTTP checks do not verify playback or model quality.
+
+## README localization — 2026-09-30
+
+All 14 non-English homepages follow the full English structure. The translation generator checks nonempty source coverage, source hashes and ratio/time markers. The parity validator compares heading levels, table rows, prompt-block counts, six preview cards, image destinations and links. These structural checks do not certify native-speaker fluency. Translations use machine-assisted drafts with editorial corrections to Chinese prose, terminology, model availability and technical values.
