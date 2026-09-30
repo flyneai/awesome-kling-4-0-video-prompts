@@ -36,3 +36,5 @@ Copy [the test record template](TEST-RECORD.md). Keep the prompt, reference role
 ## Sharing and affiliate cooperation
 
 Flyne AI supports affiliate partnerships for creators, educators, tutorial publishers and reviewers. [Join the program](https://flyne.ai/affiliate-program/). Public terms checked on 30 September 2026 list 20% for a referred user's first valid paid order and 10% for subsequent valid orders within 60 days of registration. Refunds, cancellations and other ineligible orders do not qualify; consult current terms for eligibility and payout details. Disclose a commission relationship when using referral links. This repository's ordinary product links contain no affiliate identifier.
+
+For application integration, see the [FLAQ AI Kling API guide](FLAQ-AI.md), covering Kling 4.0 text/image inputs and Kling 3.0 Std / Pro options.

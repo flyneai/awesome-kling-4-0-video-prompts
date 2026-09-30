@@ -42,7 +42,8 @@ flyne=re.findall(r'```text\n([\s\S]*?)```',(ROOT/'prompts/flyne-practice.md').re
 require(len(flyne)==2,'Expected 2 Flyne practice prompts')
 for name in ROOT.glob('README*.md'):
     s=name.read_text()
-    for x in ['https://flyne.ai/model/kling-4-0/','https://flyne.ai/affiliate-program/','Kling 3.0 Turbo','https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/','https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/','Coming Soon','assets/images/flyne-kling-cover.png']:
+    require('videoweb' not in s.lower(), name.name+': obsolete brand mention')
+    for x in ['https://flyne.ai/model/kling-4-0/','https://flyne.ai/affiliate-program/','Kling 3.0 Turbo','https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/','https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/','https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/','https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/','docs/FLAQ-AI.md','Coming Soon','assets/images/flyne-kling-cover.png']:
         require(x in s,f'{name.name}: missing {x}')
     require(s.rstrip().endswith('<!-- brand-footer:end -->'),name.name+': brand footer misplaced')
     require('https://github.com/flaqai/awesome-kling-4-0' not in s,name.name+': obsolete adaptation introduction')

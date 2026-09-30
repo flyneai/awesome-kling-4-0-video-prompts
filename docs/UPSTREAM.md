@@ -2,9 +2,9 @@
 
 [Home](../README.md) · [Contribution guide](../CONTRIBUTING.md)
 
-Flyne AI adapted [aivideoweb/awesome-kling-4-0-prompts](https://github.com/aivideoweb/awesome-kling-4-0-prompts) at commit [bd8a2562fbc260e54aa03a17c9d02bdc739050dd](https://github.com/aivideoweb/awesome-kling-4-0-prompts/tree/bd8a2562fbc260e54aa03a17c9d02bdc739050dd) on 2026-09-30.
+Flyne AI adapted [the immediate source collection](https://github.com/aivideoweb/awesome-kling-4-0-prompts) at commit [bd8a2562fbc260e54aa03a17c9d02bdc739050dd](https://github.com/aivideoweb/awesome-kling-4-0-prompts/tree/bd8a2562fbc260e54aa03a17c9d02bdc739050dd) on 2026-09-30.
 
-The source itself adapted [flaqai/awesome-kling-4-0](https://github.com/flaqai/awesome-kling-4-0) at commit 85dc22c779a63c4a4fe657d337f014de7da904d7. The 52 main recipes, five scene/hero images and multilingual guide structure originated with Flaq AI. VideoWeb added four exercises, ten-case source records, its cover and maintenance tools. All prior copyright notices remain in [LICENSE](../LICENSE). Earlier changelog entries describe work in those source repositories.
+The source itself adapted [flaqai/awesome-kling-4-0](https://github.com/flaqai/awesome-kling-4-0) at commit 85dc22c779a63c4a4fe657d337f014de7da904d7. The 52 main recipes, five scene/hero images and multilingual guide structure originated with Flaq AI. The immediate source added four exercises, ten-case source records, its cover and maintenance tools. All prior copyright notices remain in [LICENSE](../LICENSE). Earlier changelog entries describe work in those source repositories.
 
 Flyne additions: a newly generated brand cover, Flyne service and affiliate links across all 15 language homepages, two new source-linked X examples, two separately authored practice prompts, and adapted generation/validation scripts. The four inherited exercises are not newly authored Flyne prompts. No paid video generation or service uptime test was performed.
 

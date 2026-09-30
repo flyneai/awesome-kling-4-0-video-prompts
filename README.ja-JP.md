@@ -13,7 +13,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[Flyne AI を使う](https://flyne.ai/model/kling-4-0/) · [X の動画とオリジナル練習](docs/X-VIDEOS.md) · [VideoWeb の練習 4 本](prompts/inherited-flash-exercises.md)
+[Flyne AI を使う](https://flyne.ai/model/kling-4-0/) · [X の動画とオリジナル練習](docs/X-VIDEOS.md) · [練習 4 本](prompts/inherited-flash-exercises.md)
 
 [Flyne AI の Kling 4.0 ページ](https://flyne.ai/model/kling-4-0/)で提供状況を確認できます。2026年9月30日時点では 4.0 は提供予定で、フォームは **Kling 3.0 Turbo** を選択しています。生成前にモデル名を確認してください。Flyne AI での安定した 4.0 提供は未確認です。
 <!-- brand-intro:end -->
@@ -108,12 +108,19 @@
 
 [利用手順](docs/FLYNE.md)
 
-## Flaq AI Kling 4.0 API
+## FLAQ AI Kling 4.0 API · Kling 3.0 Std / Pro
 
-- [テキストから動画](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 場面を文章で指定して動画を作る機能。広告、SNS 動画、物語のアイデアに使えます。
-- [画像から動画](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 参考画像と動きの指示を組み合わせ、商品写真、人物写真、イラストを動かす機能です。
+アプリに動画生成を組み込む場合は、FLAQ AI の Kling API をご検討ください。
 
-2026年9月29日確認：両ページとも **Coming Soon（近日公開）** と表示されています。API のモデル紹介ページです。提供開始、パラメーター、料金は公開後の案内をご確認ください。
+- [Kling 4.0 API · テキストから動画](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 場面を文章で指定して動画を作る機能。広告、SNS 動画、物語のアイデアに使えます。
+- [Kling 4.0 API · 画像から動画](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 参考画像と動きの指示を組み合わせ、商品写真、人物写真、イラストを動かす機能です。
+
+2026年9月30日確認：両ページとも **Coming Soon（近日公開）** と表示されています。API のモデル紹介ページです。提供開始、パラメーター、料金は公開後の案内をご確認ください。
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — テキストから動画を生成。費用を抑えた試作や複数案の制作に。
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — 画質を重視する制作向け。同じプロンプトで Std と比較して選んでください。
+
+[API の選び方と導入ガイド（英語 / 中国語）](docs/FLAQ-AI.md)
 
 ## アフィリエイト提携
 

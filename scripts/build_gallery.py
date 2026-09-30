@@ -6,8 +6,8 @@ ROOT=Path(__file__).resolve().parents[1]
 def main():
     cases=json.loads((ROOT/'data/x-cases.json').read_text())
     count=len(cases); added=sum(c['is_new'] for c in cases)
-    intro=f'{count} creator cases: {count-added} inherited from VideoWeb and {added} added by Flyne AI. Each record gives its own check date and method. New cases were checked through the FxTwitter public mirror on 2026-09-30, not through a signed-in X session. Model names are creator claims. Full prompts are linked only when published. No independent video generation or full playback-quality audit was performed.'
-    zh=f'共 {count} 个创作者案例：{count-added} 个来自 VideoWeb，{added} 个由 Flyne AI 新增。新案例于 2026-09-30 通过 FxTwitter 公开镜像读取，未在登录后的 X 页面核验。各条保留核验日期与方法，模型名称为作者自述。完整提示词仅在作者公开时提供链接；没有独立生成复测或完整播放质量评估。'
+    intro=f'{count} creator cases: {count-added} inherited from the source collection and {added} added by Flyne AI. Each record gives its own check date and method. New cases were checked through the FxTwitter public mirror on 2026-09-30, not through a signed-in X session. Model names are creator claims. Full prompts are linked only when published. No independent video generation or full playback-quality audit was performed.'
+    zh=f'共 {count} 个创作者案例：{count-added} 个继承自源库，{added} 个由 Flyne AI 新增。新案例于 2026-09-30 通过 FxTwitter 公开镜像读取，未在登录后的 X 页面核验。各条保留核验日期与方法，模型名称为作者自述。完整提示词仅在作者公开时提供链接；没有独立生成复测或完整播放质量评估。'
     md=['# Kling 4.0 / Flash: X videos and prompt lessons','[Home](../README.md) · [中文](../README.zh-CN.md) · [4 inherited exercises](../prompts/inherited-flash-exercises.md) · [2 Flyne exercises](../prompts/flyne-practice.md) · [HTML gallery](gallery.html)',intro,zh,'External videos and thumbnails belong to their authors and are not covered by MIT. Click a preview for the original post, or use the video link. HTML playback requires opening the downloaded gallery in a browser; GitHub displays its source. Upload duration and dimensions are not verified generation settings. / 外部视频与缩略图保留原作者权利，不属于 MIT 授权内容。预览图链接原帖，另附视频直链。上传时长与尺寸不能当作生成参数。']
     cards=[]
     for c in cases:
@@ -21,7 +21,7 @@ def main():
             md.append(f'[Creator prompt / 作者提示词]({c["prompt_url"]})');links.append(f'<a href="{c["prompt_url"]}">Creator prompt / 作者提示词</a>')
         else:md.append('**Full prompt not published in this record / 此记录没有公开完整提示词。**')
         if c['exercise']:
-            label='Flyne original practice / Flyne 原创练习' if c['is_new'] else 'Inherited VideoWeb practice / 继承的 VideoWeb 练习'
+            label='Flyne original practice / Flyne 原创练习' if c['is_new'] else 'Inherited practice / 继承练习'
             md.append(f'[{label}]({c["exercise"]}) — not render-tested / 未实测')
             public='https://github.com/flyneai/awesome-kling-4-0-video-prompts/blob/main/'+c['exercise'].removeprefix('../')
             links.append(f'<a href="{public}">{label}</a>')

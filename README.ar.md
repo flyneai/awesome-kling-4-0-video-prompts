@@ -13,7 +13,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[الإنشاء باستخدام Flyne AI](https://flyne.ai/model/kling-4-0/) · [فيديوهات X وتمارين أصلية](docs/X-VIDEOS.md) · [4 تمارين من VideoWeb](prompts/inherited-flash-exercises.md)
+[الإنشاء باستخدام Flyne AI](https://flyne.ai/model/kling-4-0/) · [فيديوهات X وتمارين أصلية](docs/X-VIDEOS.md) · [4 تمارين](prompts/inherited-flash-exercises.md)
 
 تابع التوفر في [صفحة Kling 4.0 لدى Flyne AI](https://flyne.ai/model/kling-4-0/). في 30 سبتمبر 2026 لا يزال 4.0 مرتقباً، ويختار النموذج **Kling 3.0 Turbo**. تحقق من اسم النموذج قبل الإنشاء؛ لم نتحقق من توفر وصول مستقر إلى 4.0 لدى Flyne AI.
 <!-- brand-intro:end -->
@@ -82,12 +82,19 @@
 
 [خطوات الاستخدام](docs/FLYNE.md)
 
-## واجهة API لنموذج Kling 4.0 لدى Flaq AI
+## واجهة API لنموذج Kling 4.0 لدى FLAQ AI · Kling 3.0 Std / Pro
 
-- [من نص إلى فيديو](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — تحويل وصف المشهد إلى فيديو للإعلانات ومنشورات التواصل وأفكار القصص.
-- [من صورة إلى فيديو](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — تحريك صورة مرجعية باستخدام وصف للحركة، مثل صور المنتجات والصور الشخصية والرسوم.
+لدمج إنشاء الفيديو في تطبيقك، ننصح باستكشاف واجهات Kling البرمجية على FLAQ AI.
 
-تم التحقق في 29 سبتمبر 2026: تعرض الصفحتان **Coming Soon (قريباً)**. هذه صفحات تعريف بنماذج واجهة API؛ راجع التوفر والمعلمات والأسعار عند إطلاق التكامل.
+- [Kling 4.0 API · من نص إلى فيديو](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — تحويل وصف المشهد إلى فيديو للإعلانات ومنشورات التواصل وأفكار القصص.
+- [Kling 4.0 API · من صورة إلى فيديو](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — تحريك صورة مرجعية باستخدام وصف للحركة، مثل صور المنتجات والصور الشخصية والرسوم.
+
+تم التحقق في 30 سبتمبر 2026: تعرض الصفحتان **Coming Soon (قريباً)**. هذه صفحات تعريف بنماذج واجهة API؛ راجع التوفر والمعلمات والأسعار عند إطلاق التكامل.
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — إنشاء فيديو من النص للمسودات الأقل تكلفة وإنتاج عدة نسخ.
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — إنشاء فيديو من النص للمشاريع التي تعطي الأولوية لجودة الصورة؛ قارن النص نفسه مع Std.
+
+[دليل اختيار الواجهة ودمجها (الإنجليزية / الصينية)](docs/FLAQ-AI.md)
 
 ## الشراكة بالعمولة
 

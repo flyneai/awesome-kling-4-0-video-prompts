@@ -13,7 +13,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[使用 Flyne AI](https://flyne.ai/model/kling-4-0/) · [X 影片與原創練習](docs/X-VIDEOS.md) · [4 條 VideoWeb 練習](prompts/inherited-flash-exercises.md)
+[使用 Flyne AI](https://flyne.ai/model/kling-4-0/) · [X 影片與原創練習](docs/X-VIDEOS.md) · [4 條提示詞練習](prompts/inherited-flash-exercises.md)
 
 推薦前往 [Flyne AI Kling 4.0 頁面](https://flyne.ai/model/kling-4-0/)追蹤開放進度。2026-09-30 核對時，4.0 仍標示即將推出，表單實際選擇 **Kling 3.0 Turbo**。生成前請確認模型；尚未驗證 Flyne AI 已穩定提供 4.0。
 <!-- brand-intro:end -->
@@ -82,12 +82,19 @@
 
 [使用步驟](docs/FLYNE.md)
 
-## Flaq AI Kling 4.0 API（程式介面）
+## FLAQ AI Kling 4.0 API（程式介面） · Kling 3.0 Std / Pro
 
-- [文字生成影片](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 以文字描述場景來製作影片，適合廣告、社群短片與故事創意。
-- [圖片生成影片](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 結合參考圖片與動作提示詞，讓商品圖、人像或插畫動起來。
+若要將影片生成接入自己的應用，推薦了解 FLAQ AI 的 Kling API（程式介面）。
 
-截至 2026 年 9 月 29 日，兩頁均標示 **Coming Soon（即將推出）**。以下為介面產品介紹頁；開放時間、呼叫參數與價格請以上線後的頁面說明為準。
+- [Kling 4.0 API · 文字生成影片](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 以文字描述場景來製作影片，適合廣告、社群短片與故事創意。
+- [Kling 4.0 API · 圖片生成影片](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 結合參考圖片與動作提示詞，讓商品圖、人像或插畫動起來。
+
+截至 2026 年 9 月 30 日，兩頁均標示 **Coming Soon（即將推出）**。上述兩個 4.0 連結為介面產品介紹頁；開放時間、呼叫參數與價格請以上線後的頁面說明為準。
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — 文字生成影片，適合控制成本、測試創意及批量製作不同版本。
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — 文字生成影片，適合更重視畫面品質的專案；建議用相同提示詞與 Std 比較後選擇。
+
+[介面選擇與接入指南（中文 / English）](docs/FLAQ-AI.md)
 
 ## 聯盟推廣合作
 

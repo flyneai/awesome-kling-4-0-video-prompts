@@ -13,7 +13,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[Flyne AI 사용하기](https://flyne.ai/model/kling-4-0/) · [X 영상과 새 연습](docs/X-VIDEOS.md) · [VideoWeb 연습 4개](prompts/inherited-flash-exercises.md)
+[Flyne AI 사용하기](https://flyne.ai/model/kling-4-0/) · [X 영상과 새 연습](docs/X-VIDEOS.md) · [연습 4개](prompts/inherited-flash-exercises.md)
 
 [Flyne AI Kling 4.0 페이지](https://flyne.ai/model/kling-4-0/)에서 제공 현황을 확인하세요. 2026년 9월 30일 기준 4.0은 출시 예정이며 양식에는 **Kling 3.0 Turbo**가 선택되어 있습니다. 생성 전에 모델을 확인하세요. Flyne AI의 안정적인 4.0 제공은 아직 검증하지 않았습니다.
 <!-- brand-intro:end -->
@@ -108,12 +108,19 @@
 
 [사용 방법](docs/FLYNE.md)
 
-## Flaq AI Kling 4.0 API
+## FLAQ AI Kling 4.0 API · Kling 3.0 Std / Pro
 
-- [텍스트로 영상 만들기](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 장면을 글로 설명해 광고, 소셜 영상, 스토리 아이디어를 영상으로 만드는 기능입니다.
-- [이미지로 영상 만들기](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 참고 이미지와 동작 프롬프트를 조합해 제품 사진, 인물 사진, 일러스트에 움직임을 더하는 기능입니다.
+앱에 영상 생성을 연동하려면 FLAQ AI의 Kling API를 살펴보세요.
 
-2026년 9월 29일 확인: 두 페이지 모두 **Coming Soon(출시 예정)**으로 표시됩니다. API 모델 소개 페이지이며, 제공 시점과 매개변수, 요금은 출시 후 안내를 확인하세요.
+- [Kling 4.0 API · 텍스트로 영상 만들기](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 장면을 글로 설명해 광고, 소셜 영상, 스토리 아이디어를 영상으로 만드는 기능입니다.
+- [Kling 4.0 API · 이미지로 영상 만들기](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 참고 이미지와 동작 프롬프트를 조합해 제품 사진, 인물 사진, 일러스트에 움직임을 더하는 기능입니다.
+
+2026년 9월 30일 확인: 두 페이지 모두 **Coming Soon(출시 예정)**으로 표시됩니다. API 모델 소개 페이지이며, 제공 시점과 매개변수, 요금은 출시 후 안내를 확인하세요.
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — 텍스트로 영상 생성. 비용을 줄인 초안과 여러 버전 제작에 적합합니다.
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — 화질을 중시하는 제작용입니다. 같은 프롬프트로 Std와 비교한 후 선택하세요.
+
+[API 선택 및 연동 안내 (영어 / 중국어)](docs/FLAQ-AI.md)
 
 ## 제휴 프로그램
 

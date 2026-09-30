@@ -13,7 +13,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[Berkreasi dengan Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video X dan latihan orisinal](docs/X-VIDEOS.md) · [4 latihan VideoWeb](prompts/inherited-flash-exercises.md)
+[Berkreasi dengan Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video X dan latihan orisinal](docs/X-VIDEOS.md) · [4 latihan](prompts/inherited-flash-exercises.md)
 
 Kunjungi [halaman Kling 4.0 Flyne AI](https://flyne.ai/model/kling-4-0/). Pada 30 September 2026, 4.0 masih akan hadir dan formulir memilih **Kling 3.0 Turbo**. Periksa model sebelum membuat video; akses stabil ke 4.0 di Flyne AI belum diverifikasi.
 <!-- brand-intro:end -->
@@ -82,12 +82,19 @@ Kunjungi [halaman Kling 4.0 Flyne AI](https://flyne.ai/model/kling-4-0/). Pada 3
 
 [Cara menggunakan](docs/FLYNE.md)
 
-## API Kling 4.0 dari Flaq AI
+## API Kling 4.0 dari FLAQ AI · Kling 3.0 Std / Pro
 
-- [Teks ke video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Ubah deskripsi adegan menjadi video untuk iklan, media sosial dan ide cerita.
-- [Gambar ke video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Animasikan gambar referensi dengan arahan gerakan untuk produk, potret atau ilustrasi.
+Untuk mengintegrasikan pembuatan video ke aplikasi Anda, jelajahi API Kling di FLAQ AI.
 
-Diperiksa pada 29 September 2026: kedua halaman menampilkan **Coming Soon (segera hadir)**. Ini adalah halaman informasi model API; periksa ketersediaan, parameter dan harga saat integrasi diluncurkan.
+- [Kling 4.0 API · Teks ke video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Ubah deskripsi adegan menjadi video untuk iklan, media sosial dan ide cerita.
+- [Kling 4.0 API · Gambar ke video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Animasikan gambar referensi dengan arahan gerakan untuk produk, potret atau ilustrasi.
+
+Diperiksa pada 30 September 2026: kedua halaman menampilkan **Coming Soon (segera hadir)**. Ini adalah halaman informasi model API; periksa ketersediaan, parameter dan harga saat integrasi diluncurkan.
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — Teks ke video untuk draf hemat biaya dan pembuatan banyak variasi.
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — Teks ke video untuk proyek yang mengutamakan kualitas visual; bandingkan prompt yang sama dengan Std.
+
+[Panduan memilih dan mengintegrasikan API (Inggris / Mandarin)](docs/FLAQ-AI.md)
 
 ## Kemitraan afiliasi
 

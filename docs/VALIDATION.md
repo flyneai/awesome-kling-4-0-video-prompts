@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Source history](UPSTREAM.md)
 
-- All 52 catalog prompt bodies match the upstream SHA-256 manifest; all four VideoWeb exercise code blocks also match the immediate source.
+- All 52 catalog prompt bodies match the upstream SHA-256 manifest; all four inherited exercise code blocks also match the immediate source.
 - All 15 language homepages retain their source content and use the new Flyne cover, provider URL and localized affiliate sections. This preserves the source's language coverage; it does not claim every English recipe is translated into 15 languages.
 - Two additional X records and two original Flyne practice prompts are included. Both new posts lack a complete published generation prompt. The music-video post discloses sponsorship and does not identify its result specifically as Flash.
 - `scripts/check_content.py` validates local paths/anchors, source prompt hashes, practice counts, case uniqueness, required metadata, media hosts and brand sections.

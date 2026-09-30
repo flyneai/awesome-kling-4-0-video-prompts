@@ -13,7 +13,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[Creare con Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video su X ed esercizi originali](docs/X-VIDEOS.md) · [4 esercizi VideoWeb](prompts/inherited-flash-exercises.md)
+[Creare con Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video su X ed esercizi originali](docs/X-VIDEOS.md) · [4 esercizi](prompts/inherited-flash-exercises.md)
 
 Visita la [pagina Kling 4.0 di Flyne AI](https://flyne.ai/model/kling-4-0/). Al 30 settembre 2026, 4.0 è indicato come in arrivo e il modulo seleziona **Kling 3.0 Turbo**. Controlla il modello prima di generare; l’accesso stabile a 4.0 su Flyne AI non è stato verificato.
 <!-- brand-intro:end -->
@@ -82,12 +82,19 @@ Visita la [pagina Kling 4.0 di Flyne AI](https://flyne.ai/model/kling-4-0/). Al 
 
 [Guida pratica](docs/FLYNE.md)
 
-## API Kling 4.0 di Flaq AI
+## API Kling 4.0 di FLAQ AI · Kling 3.0 Std / Pro
 
-- [Da testo a video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Trasforma descrizioni di scene in video per pubblicità, social e idee narrative.
-- [Da immagine a video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Anima un’immagine di riferimento con istruzioni di movimento, per prodotti, ritratti o illustrazioni.
+Per integrare la generazione video nella tua applicazione, consigliamo le API Kling di FLAQ AI.
 
-Verifica del 29 settembre 2026: entrambe le pagine riportano **Coming Soon (in arrivo)**. Sono pagine informative sui modelli API; consulta disponibilità, parametri e prezzi al lancio dell’integrazione.
+- [Kling 4.0 API · Da testo a video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Trasforma descrizioni di scene in video per pubblicità, social e idee narrative.
+- [Kling 4.0 API · Da immagine a video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Anima un’immagine di riferimento con istruzioni di movimento, per prodotti, ritratti o illustrazioni.
+
+Verifica del 30 settembre 2026: entrambe le pagine riportano **Coming Soon (in arrivo)**. Sono pagine informative sui modelli API; consulta disponibilità, parametri e prezzi al lancio dell’integrazione.
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — Da testo a video per bozze economiche e varianti in serie.
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — Da testo a video per progetti che privilegiano la qualità visiva; confronta lo stesso prompt con Std.
+
+[Guida alla scelta e integrazione API (inglese / cinese)](docs/FLAQ-AI.md)
 
 ## Collaborazione di affiliazione
 

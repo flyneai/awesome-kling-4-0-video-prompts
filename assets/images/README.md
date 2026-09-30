@@ -49,7 +49,3 @@ Create a photorealistic 16:9 science-fantasy action frame: an adult desert couri
 ## `flyne-kling-cover.png`
 
 New Flyne AI editorial cover, generated on 2026-09-30 with the built-in image-generation tool, without reference images. It is not a Kling-generated frame. The homepage uses this cover; the original upstream hero remains for provenance. [Generation prompt](../generation/flyne-kling-cover.txt). External X thumbnails are linked remotely and are not part of the six active local assets.
-
-## Archived source cover
-
-`videoweb-kling-cover.png` and its original [generation note](../generation/videoweb-kling-cover.txt) are retained as VideoWeb source artifacts, not displayed as the Flyne cover.

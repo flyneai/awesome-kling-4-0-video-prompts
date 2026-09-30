@@ -1,10 +1,10 @@
-# Four inherited VideoWeb exercises for Flash testing
+# Four inherited exercises for Flash testing
 
-Inherited unchanged from VideoWeb AI; these four exercises are not newly authored Flyne AI prompts. [Source history](../docs/UPSTREAM.md).
+Inherited unchanged from the source collection; these four exercises are not newly authored Flyne AI prompts. [Source history](../docs/UPSTREAM.md).
 
 [Home](../README.md) · [52 upstream recipes](README.md) · [X video examples](../docs/X-VIDEOS.md) · [Test record](../docs/TEST-RECORD.md)
 
-Four original, **recipe-only** briefs written by VideoWeb AI on 29 September 2026. They explore problems highlighted by the X tests linked by the upstream project, with different subjects, actions, dialogue and shot plans. They are not the creators' prompts, reproductions of their clips, or verified Kling results. Use a duration and mode available in your account. 中文读者可先看每条的用途与检查方法；英文代码块可直接复制。
+Four original, **recipe-only** briefs published in the source collection on 29 September 2026. They explore problems highlighted by the X tests linked by the upstream project, with different subjects, actions, dialogue and shot plans. They are not the creators' prompts, reproductions of their clips, or verified Kling results. Use a duration and mode available in your account. 中文读者可先看每条的用途与检查方法；英文代码块可直接复制。
 
 ## 1. Label card under a moving light
 

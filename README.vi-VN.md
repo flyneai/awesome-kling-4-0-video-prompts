@@ -13,7 +13,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[Sáng tạo cùng Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video X và bài tập mới](docs/X-VIDEOS.md) · [4 bài tập VideoWeb](prompts/inherited-flash-exercises.md)
+[Sáng tạo cùng Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video X và bài tập mới](docs/X-VIDEOS.md) · [4 bài tập](prompts/inherited-flash-exercises.md)
 
 Xem [trang Kling 4.0 của Flyne AI](https://flyne.ai/model/kling-4-0/). Ngày 29/09/2026, 4.0 vẫn được ghi là sắp ra mắt và biểu mẫu chọn **Kling 3.0 Turbo**. Kiểm tra tên mô hình trước khi tạo; chưa xác minh quyền truy cập 4.0 ổn định trên Flyne AI.
 <!-- brand-intro:end -->
@@ -82,12 +82,19 @@ Xem [trang Kling 4.0 của Flyne AI](https://flyne.ai/model/kling-4-0/). Ngày 2
 
 [Cách sử dụng](docs/FLYNE.md)
 
-## API Kling 4.0 của Flaq AI
+## API Kling 4.0 của FLAQ AI · Kling 3.0 Std / Pro
 
-- [Văn bản thành video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Chuyển mô tả cảnh thành video cho quảng cáo, mạng xã hội và ý tưởng kể chuyện.
-- [Hình ảnh thành video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Kết hợp ảnh tham chiếu với mô tả chuyển động để tạo chuyển động cho ảnh sản phẩm, chân dung hoặc tranh minh họa.
+Để tích hợp tạo video vào ứng dụng, hãy tìm hiểu API Kling của FLAQ AI.
 
-Kiểm tra ngày 29/09/2026: cả hai trang đều ghi **Coming Soon (sắp ra mắt)**. Đây là trang giới thiệu mô hình API; xem tình trạng cung cấp, tham số và giá khi tích hợp được ra mắt.
+- [Kling 4.0 API · Văn bản thành video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Chuyển mô tả cảnh thành video cho quảng cáo, mạng xã hội và ý tưởng kể chuyện.
+- [Kling 4.0 API · Hình ảnh thành video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Kết hợp ảnh tham chiếu với mô tả chuyển động để tạo chuyển động cho ảnh sản phẩm, chân dung hoặc tranh minh họa.
+
+Kiểm tra ngày 30/09/2026: cả hai trang đều ghi **Coming Soon (sắp ra mắt)**. Đây là trang giới thiệu mô hình API; xem tình trạng cung cấp, tham số và giá khi tích hợp được ra mắt.
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — Tạo video từ văn bản để thử ý tưởng với chi phí thấp và tạo nhiều biến thể.
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — Tạo video từ văn bản cho dự án ưu tiên chất lượng hình ảnh; so sánh cùng một prompt với Std.
+
+[Hướng dẫn chọn và tích hợp API (tiếng Anh / tiếng Trung)](docs/FLAQ-AI.md)
 
 ## Hợp tác tiếp thị liên kết
 

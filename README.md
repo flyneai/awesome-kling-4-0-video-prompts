@@ -22,7 +22,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[Flyne AI workflow](https://flyne.ai/model/kling-4-0/) · [X videos and original exercises](docs/X-VIDEOS.md) · [4 VideoWeb exercises](prompts/inherited-flash-exercises.md)
+[Flyne AI workflow](https://flyne.ai/model/kling-4-0/) · [X videos and original exercises](docs/X-VIDEOS.md) · [4 exercises](prompts/inherited-flash-exercises.md)
 
 Open the [Flyne AI Kling 4.0 page](https://flyne.ai/model/kling-4-0/) to follow availability and prepare your next video. As checked on 30 September 2026, the page labels 4.0 as upcoming and its form selects **Kling 3.0 Turbo**. Confirm the actual model before generating; stable 4.0 access on Flyne AI has not been verified.
 <!-- brand-intro:end -->
@@ -89,7 +89,7 @@ An original, production-oriented library of complete Kling AI video prompts for 
 - **15 project languages:** localized navigation and quick-start guidance, with a transparent distinction between documentation and model speech support.
 - **Six local visual assets:** a Flyne AI cover and five scene-reference images, documented in the [asset manifest](assets/images/README.md).
 - **Production guidance:** aspect-ratio planning, camera geography, reference ownership, audio timelines, iteration logs, rights review and pre-publish checks.
-- **Flash creator watchlist:** twelve linked X cases (ten inherited, two added), four inherited VideoWeb exercises, two new Flyne AI exercises and the bicycle-light starter.
+- **Flash creator watchlist:** twelve linked X cases (ten inherited, two added), four inherited exercises, two new Flyne AI exercises and the bicycle-light starter.
 - **Flyne AI workflow notes:** a browser workflow that checks the selected model before generating.
 
 ## Model status and compatibility
@@ -329,12 +329,19 @@ Open the [Flyne AI Kling 4.0 page](https://flyne.ai/model/kling-4-0/) to follow 
 
 [Workflow](docs/FLYNE.md)
 
-## Flaq AI Kling 4.0 API
+## FLAQ AI Kling 4.0 API · Kling 3.0 Std / Pro
 
-- [Text to video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Turn scene descriptions into videos for ads, social posts and story concepts.
-- [Image to video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Animate a reference image with a motion prompt, for products, portraits or illustrations.
+For application development, we recommend exploring FLAQ AI’s Kling APIs.
 
-Checked on 29 September 2026: both pages say **Coming Soon**. These are API model information pages; check them for availability, parameters and pricing when the integration launches.
+- [Kling 4.0 API · Text to video](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — Turn scene descriptions into videos for ads, social posts and story concepts.
+- [Kling 4.0 API · Image to video](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — Animate a reference image with a motion prompt, for products, portraits or illustrations.
+
+Checked on 30 September 2026: both pages say **Coming Soon**. These are API model information pages; check them for availability, parameters and pricing when the integration launches.
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — Text-to-video for lower-cost drafts and batch variations.
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — Text-to-video for projects prioritizing visual quality; compare the same prompt with Std before choosing.
+
+[API selection and integration guide (English / 中文)](docs/FLAQ-AI.md)
 
 ## Affiliate partnership
 

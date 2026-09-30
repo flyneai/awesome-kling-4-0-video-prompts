@@ -2,9 +2,9 @@
 
 [Home](../README.md) · [中文](../README.zh-CN.md) · [4 inherited exercises](../prompts/inherited-flash-exercises.md) · [2 Flyne exercises](../prompts/flyne-practice.md) · [HTML gallery](gallery.html)
 
-12 creator cases: 10 inherited from VideoWeb and 2 added by Flyne AI. Each record gives its own check date and method. New cases were checked through the FxTwitter public mirror on 2026-09-30, not through a signed-in X session. Model names are creator claims. Full prompts are linked only when published. No independent video generation or full playback-quality audit was performed.
+12 creator cases: 10 inherited from the source collection and 2 added by Flyne AI. Each record gives its own check date and method. New cases were checked through the FxTwitter public mirror on 2026-09-30, not through a signed-in X session. Model names are creator claims. Full prompts are linked only when published. No independent video generation or full playback-quality audit was performed.
 
-共 12 个创作者案例：10 个来自 VideoWeb，2 个由 Flyne AI 新增。新案例于 2026-09-30 通过 FxTwitter 公开镜像读取，未在登录后的 X 页面核验。各条保留核验日期与方法，模型名称为作者自述。完整提示词仅在作者公开时提供链接；没有独立生成复测或完整播放质量评估。
+共 12 个创作者案例：10 个继承自源库，2 个由 Flyne AI 新增。新案例于 2026-09-30 通过 FxTwitter 公开镜像读取，未在登录后的 X 页面核验。各条保留核验日期与方法，模型名称为作者自述。完整提示词仅在作者公开时提供链接；没有独立生成复测或完整播放质量评估。
 
 External videos and thumbnails belong to their authors and are not covered by MIT. Click a preview for the original post, or use the video link. HTML playback requires opening the downloaded gallery in a browser; GitHub displays its source. Upload duration and dimensions are not verified generation settings. / 外部视频与缩略图保留原作者权利，不属于 MIT 授权内容。预览图链接原帖，另附视频直链。上传时长与尺寸不能当作生成参数。
 
@@ -134,7 +134,7 @@ Inspect lettering and silhouette frame by frame. A prompt asking for 4K does not
 
 [Creator prompt / 作者提示词](https://x.com/sebatheepan/status/2104653409227829496)
 
-[Inherited VideoWeb practice / 继承的 VideoWeb 练习](../prompts/inherited-flash-exercises.md#1-label-card-under-a-moving-light) — not render-tested / 未实测
+[Inherited practice / 继承练习](../prompts/inherited-flash-exercises.md#1-label-card-under-a-moving-light) — not render-tested / 未实测
 
 ## Practical light and shadows / 实景光源与阴影
 
@@ -154,7 +154,7 @@ Check whether highlights follow a moving light. A web clip cannot establish 10-b
 
 [Creator prompt / 作者提示词](https://x.com/sebatheepan/status/2104653412738666699)
 
-[Inherited VideoWeb practice / 继承的 VideoWeb 练习](../prompts/inherited-flash-exercises.md#2-lantern-reflection-in-a-ceramic-studio) — not render-tested / 未实测
+[Inherited practice / 继承练习](../prompts/inherited-flash-exercises.md#2-lantern-reflection-in-a-ceramic-studio) — not render-tested / 未实测
 
 ## Sequential-action continuity / 连续动作与物体保留
 
@@ -174,7 +174,7 @@ Describe contact, consequence and the final resting position separately.
 
 [Creator prompt / 作者提示词](https://x.com/sebatheepan/status/2104653416123551799)
 
-[Inherited VideoWeb practice / 继承的 VideoWeb 练习](../prompts/inherited-flash-exercises.md#3-parcel-stamp-with-a-persistent-mark) — not render-tested / 未实测
+[Inherited practice / 继承练习](../prompts/inherited-flash-exercises.md#3-parcel-stamp-with-a-persistent-mark) — not render-tested / 未实测
 
 ## Two-speaker emotional dialogue / 双人情绪对白
 
@@ -194,7 +194,7 @@ Assign lines, pauses and persistent props. The source brief has inconsistent sho
 
 [Creator prompt / 作者提示词](https://x.com/sebatheepan/status/2104653420112032191)
 
-[Inherited VideoWeb practice / 继承的 VideoWeb 练习](../prompts/inherited-flash-exercises.md#4-closing-time-umbrella-exchange) — not render-tested / 未实测
+[Inherited practice / 继承练习](../prompts/inherited-flash-exercises.md#4-closing-time-umbrella-exchange) — not render-tested / 未实测
 
 ## Two-person dialogue and continuous acting / 双人对白与连续表演
 

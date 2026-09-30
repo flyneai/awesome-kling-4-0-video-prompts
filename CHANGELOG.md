@@ -1,16 +1,22 @@
+# API guide and brand cleanup — 2026-09-30
+
+- Remove previous-brand display text and archived cover assets; retain original copyright notices and source links.
+- Add four FLAQ AI model links with localized introductions to all 15 homepages, distinguishing upcoming Kling 4.0 APIs from documented Kling 3.0 Std and Pro APIs.
+- Add an English and Chinese API selection and integration guide; extend link and branding validation.
+
 # Flyne AI adaptation — 2026-09-30
 
-- Import the full VideoWeb source, preserving 52 catalog prompts, 15 language guides and four inherited exercises.
+- Import the full upstream collection, preserving 52 catalog prompts, 15 language guides and four inherited exercises.
 - Add a Flyne AI cover, service links, provider instructions and localized affiliate entries.
 - Expand the source-linked gallery from 10 to 12 cases and add two untested Flyne exercises; identify unavailable author prompts and sponsored content.
 - Preserve the source copyright chain, prompt hashes and historical verification dates; adapt maintenance scripts and checks.
 
 The entries below are inherited source history.
 
-# VideoWeb adaptation — 2026-09-29
+# Upstream adaptation — 2026-09-29
 
 - Preserved 52 upstream recipes, 13 collections, 15 languages, five source images and MIT attribution.
-- Added VideoWeb cover, browser workflow and localized affiliate cooperation sections.
+- Added the source edition’s cover, browser workflow and localized affiliate cooperation sections.
 - Added four X cases, four recipe-only exercises, linked previews and a playable HTML gallery.
 - Added provenance, test-record template, deterministic generators and content checks.
 

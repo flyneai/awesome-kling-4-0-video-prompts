@@ -20,7 +20,7 @@
 </div>
 
 <!-- brand-intro:start -->
-[使用 Flyne AI](https://flyne.ai/model/kling-4-0/) · [X 视频与原创练习](docs/X-VIDEOS.md) · [4 条 VideoWeb 练习](prompts/inherited-flash-exercises.md)
+[使用 Flyne AI](https://flyne.ai/model/kling-4-0/) · [X 视频与原创练习](docs/X-VIDEOS.md) · [4 条提示词练习](prompts/inherited-flash-exercises.md)
 
 推荐访问 [Flyne AI Kling 4.0 页面](https://flyne.ai/model/kling-4-0/)，了解开放进展并准备创作。2026-09-30 核对时，页面仍标注 4.0 即将推出，实际表单选择的是 **Kling 3.0 Turbo**。生成前请确认模型名称；目前未核验 Flyne AI 已稳定提供 4.0。
 <!-- brand-intro:end -->
@@ -89,7 +89,7 @@
 - **15 种项目语言：** 提供本地化导航与快速模板，并明确区分“文档语言”和“模型原生语音能力”。
 - **六张本地视觉素材：** 包含 Flyne AI 封面和五张场景参考图，详见[图片素材清单](assets/images/README.md)中的素材说明。
 - **生产检查体系：** 画幅、摄影机、人物与产品一致性、声音时间轴、迭代记录、版权和发布前检查。
-- **Flash 创作者案例：** 共 12 个（10 个继承、2 个新增），另有 4 条继承的 VideoWeb 练习及 2 条 Flyne AI 新练习及自行车灯入门提示词。
+- **Flash 创作者案例：** 共 12 个（10 个继承、2 个新增），另有 4 条继承练习及 2 条 Flyne AI 新练习及自行车灯入门提示词。
 - **Flyne AI 使用说明：** 介绍网页测试、参考图准备及实际模型核对。
 
 ## 模型版本与兼容性
@@ -271,12 +271,19 @@ Flash 值得分别测试**简短直接**和**较长但结构清晰**的提示词
 
 [使用步骤](docs/FLYNE.md)
 
-## Flaq AI Kling 4.0 API（程序接口）
+## FLAQ AI Kling 4.0 API（程序接口） · Kling 3.0 Std / Pro
 
-- [文生视频](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 用文字描述场景来制作视频，适合广告、社交短片和故事创意。
-- [图生视频](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 结合参考图片和动作提示词，让商品图、人像或插画动起来。
+如需将视频生成接入自己的应用，推荐了解 FLAQ AI 的 Kling API（程序接口）。
 
-截至 2026 年 9 月 29 日，两页均标注 **Coming Soon（即将上线）**。以下是接口产品介绍页；开放时间、调用参数和价格请以上线后的页面说明为准。
+- [Kling 4.0 API · 文生视频](https://flaq.ai/models/kuaishou/kling-4-0-text-to-video/) — 用文字描述场景来制作视频，适合广告、社交短片和故事创意。
+- [Kling 4.0 API · 图生视频](https://flaq.ai/models/kuaishou/kling-4-0-image-to-video/) — 结合参考图片和动作提示词，让商品图、人像或插画动起来。
+
+截至 2026 年 9 月 30 日，两页均标注 **Coming Soon（即将上线）**。上述两个 4.0 链接是接口产品介绍页；开放时间、调用参数和价格请以上线后的页面说明为准。
+
+- [Kling 3.0 Std API](https://flaq.ai/models/kuaishou/kling-3-0-std-text-to-video/) — 文生视频，适合控制成本、测试创意及批量制作不同版本。
+- [Kling 3.0 Pro API](https://flaq.ai/models/kuaishou/kling-3-0-pro-text-to-video/) — 文生视频，适合更重视画面质量的项目；建议用相同提示词与 Std 对比后选择。
+
+[接口选择与接入指南（中文 / English）](docs/FLAQ-AI.md)
 
 ## 联盟推广合作
 
