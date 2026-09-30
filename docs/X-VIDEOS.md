@@ -6,6 +6,8 @@
 
 共 18 个创作者案例：10 个继承自源库，8 个由 Flyne AI 新增。新记录于 2026-09-30 通过 FxTwitter 公开镜像读取，其中部分提示词回复也在 X 公开页面核对；各条注明具体方法。各条保留核验日期与方法，模型名称为作者自述。提示词链接区分完整文本与局部截图；没有独立生成复测或完整播放质量评估。
 
+Media check (2026-09-30): the six latest video URLs returned HTTP 200; their thumbnail requests returned HTTP 403 in this environment. If previews do not load, follow the original X links. / 本轮六条视频直链可访问，缩略图请求返回 403；预览无法显示时请打开 X 原帖。
+
 External videos and thumbnails belong to their authors and are not covered by MIT. Click a preview for the original post, or use the video link. HTML playback requires opening the downloaded gallery in a browser; GitHub displays its source. Upload duration and dimensions are not verified generation settings. / 外部视频与缩略图保留原作者权利，不属于 MIT 授权内容。预览图链接原帖，另附视频直链。上传时长与尺寸不能当作生成参数。
 
 ## Continuous nighttime cat chase / 夜间猫咪连续跟拍
