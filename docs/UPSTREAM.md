@@ -8,7 +8,7 @@ The source itself adapted [flaqai/awesome-kling-4-0](https://github.com/flaqai/a
 
 Flyne additions: a newly generated brand cover, Flyne service and affiliate links across all 15 language homepages, two new source-linked X examples, two separately authored practice prompts, and adapted generation/validation scripts. The four inherited exercises are not newly authored Flyne prompts. No paid video generation or service uptime test was performed.
 
-The provider page was checked on 2026-09-30: [Flyne Kling 4.0 preview](https://flyne.ai/model/kling-4-0/) describes 4.0 as upcoming and its form selects Kling 3.0 Turbo. The link is a recommended entry for availability and current-model drafts, not proof of stable 4.0 access. Original 2026-09-29 model announcements and inherited verification dates remain historical records.
+The provider page was checked on 2026-09-30: [Flyne Kling 4.0 preview](https://flyne.ai/model/kling-4-0/) describes 4.0 as upcoming and its form selects Kling 3.0 Turbo. The link is a recommended entry for availability and current-model drafts, not proof of stable 4.0 access. On 2026-09-30, the Flyne AI team supplied an expected October 2026 support schedule, with no exact launch date. This is a provider plan, separate from Kling’s already-open official Flash early access. Original 2026-09-29 model announcements and inherited verification dates remain historical records.
 
 ## Source media
 

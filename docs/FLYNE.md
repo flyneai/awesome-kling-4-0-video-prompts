@@ -13,7 +13,11 @@
 | A plan to test Kling 4.0 | [Kling 4.0 page](https://flyne.ai/model/kling-4-0/) | Check the actual model selected in the form |
 | A tutorial or review to share | [Affiliate program](https://flyne.ai/affiliate-program/) | Check eligibility and disclose referrals |
 
-**Availability checked 30 September 2026:** Flyne AI's 4.0 page describes an upcoming model; its embedded form selects **Kling 3.0 Turbo**. This is a useful place to prepare and test a current-model draft, but is not evidence of live, stable 4.0 generation. Kling's official Flash early access is a separate access channel. No Flyne AI API endpoint, model ID or 4.0 price is asserted here.
+**Kling 4.0 Flash is already available on the [official Kling website](https://kling.ai/) through early access for Ultra Yearly subscribers. [Flyne AI](https://flyne.ai/model/kling-4-0/) expects to add support in October 2026; the exact launch date is to be announced.** As of 30 September, the Flyne form selects Kling 3.0 Turbo. Check the selected model before generating.
+
+**Kling 4.0 Flash 已可在[可灵官网](https://kling.ai/)使用，目前向 Ultra／黑金年卡会员开放抢先体验。[Flyne AI](https://flyne.ai/model/kling-4-0/) 预计于 2026 年 10 月上线支持，具体日期另行公布。**截至 9 月 30 日，Flyne 表单仍选择 Kling 3.0 Turbo，生成前请确认实际模型。
+
+The October schedule was provided by the Flyne AI team on 2026-09-30. Official Flash eligibility is described in the [Kling AI announcement](https://sg.linkedin.com/company/kling-ai-api).
 
 ## From a recipe to a useful draft
 

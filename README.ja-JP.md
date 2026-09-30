@@ -15,7 +15,7 @@
 <!-- brand-intro:start -->
 [Flyne AI を使う](https://flyne.ai/model/kling-4-0/) · [X の動画とオリジナル練習](docs/X-VIDEOS.md) · [練習 4 本](prompts/inherited-flash-exercises.md)
 
-[Flyne AI の Kling 4.0 ページ](https://flyne.ai/model/kling-4-0/)で提供状況を確認できます。2026年9月30日時点では 4.0 は提供予定で、フォームは **Kling 3.0 Turbo** を選択しています。生成前にモデル名を確認してください。Flyne AI での安定した 4.0 提供は未確認です。
+**Kling 4.0 Flash は[公式サイト](https://kling.ai/)で Ultra 年間プラン加入者向けに先行提供中です。[Flyne AI](https://flyne.ai/model/kling-4-0/) は2026年10月に対応予定で、具体的な開始日は後日発表します。**9月30日時点の Flyne の選択モデルは Kling 3.0 Turbo です。生成前にモデル名をご確認ください。
 <!-- brand-intro:end -->
 
 
@@ -104,7 +104,7 @@
 
 ## Flyne AI を使う
 
-[Flyne AI の Kling 4.0 ページ](https://flyne.ai/model/kling-4-0/)で提供状況を確認できます。2026年9月30日時点では 4.0 は提供予定で、フォームは **Kling 3.0 Turbo** を選択しています。生成前にモデル名を確認してください。Flyne AI での安定した 4.0 提供は未確認です。
+**Kling 4.0 Flash は[公式サイト](https://kling.ai/)で Ultra 年間プラン加入者向けに先行提供中です。[Flyne AI](https://flyne.ai/model/kling-4-0/) は2026年10月に対応予定で、具体的な開始日は後日発表します。**9月30日時点の Flyne の選択モデルは Kling 3.0 Turbo です。生成前にモデル名をご確認ください。
 
 [利用手順](docs/FLYNE.md)
 

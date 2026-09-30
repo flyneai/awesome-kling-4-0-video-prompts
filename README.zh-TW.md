@@ -15,7 +15,7 @@
 <!-- brand-intro:start -->
 [使用 Flyne AI](https://flyne.ai/model/kling-4-0/) · [X 影片與原創練習](docs/X-VIDEOS.md) · [4 條提示詞練習](prompts/inherited-flash-exercises.md)
 
-推薦前往 [Flyne AI Kling 4.0 頁面](https://flyne.ai/model/kling-4-0/)追蹤開放進度。2026-09-30 核對時，4.0 仍標示即將推出，表單實際選擇 **Kling 3.0 Turbo**。生成前請確認模型；尚未驗證 Flyne AI 已穩定提供 4.0。
+**Kling 4.0 Flash 已可在[可靈官網](https://kling.ai/)使用，目前向 Ultra／黑金年卡會員開放搶先體驗。[Flyne AI](https://flyne.ai/model/kling-4-0/) 預計於 2026 年 10 月上線支援，具體日期另行公布。**截至 9 月 30 日，Flyne 表單仍選擇 Kling 3.0 Turbo，生成前請確認實際模型。
 <!-- brand-intro:end -->
 
 
@@ -78,7 +78,7 @@
 
 ## 使用 Flyne AI
 
-推薦前往 [Flyne AI Kling 4.0 頁面](https://flyne.ai/model/kling-4-0/)追蹤開放進度。2026-09-30 核對時，4.0 仍標示即將推出，表單實際選擇 **Kling 3.0 Turbo**。生成前請確認模型；尚未驗證 Flyne AI 已穩定提供 4.0。
+**Kling 4.0 Flash 已可在[可靈官網](https://kling.ai/)使用，目前向 Ultra／黑金年卡會員開放搶先體驗。[Flyne AI](https://flyne.ai/model/kling-4-0/) 預計於 2026 年 10 月上線支援，具體日期另行公布。**截至 9 月 30 日，Flyne 表單仍選擇 Kling 3.0 Turbo，生成前請確認實際模型。
 
 [使用步驟](docs/FLYNE.md)
 

@@ -1,3 +1,8 @@
+# Flash availability and Flyne schedule — 2026-09-30
+
+- Clarify official Kling 4.0 Flash early access and Flyne AI’s expected October 2026 support in all 15 language homepages and the workflow guide.
+- Keep subscriber eligibility, the pending exact date and the currently selected model explicit.
+
 # API guide and brand cleanup — 2026-09-30
 
 - Remove previous-brand display text and archived cover assets; retain original copyright notices and source links.

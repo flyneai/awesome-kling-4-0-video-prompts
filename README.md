@@ -24,7 +24,7 @@
 <!-- brand-intro:start -->
 [Flyne AI workflow](https://flyne.ai/model/kling-4-0/) · [X videos and original exercises](docs/X-VIDEOS.md) · [4 exercises](prompts/inherited-flash-exercises.md)
 
-Open the [Flyne AI Kling 4.0 page](https://flyne.ai/model/kling-4-0/) to follow availability and prepare your next video. As checked on 30 September 2026, the page labels 4.0 as upcoming and its form selects **Kling 3.0 Turbo**. Confirm the actual model before generating; stable 4.0 access on Flyne AI has not been verified.
+**Kling 4.0 Flash is already available on the [official Kling website](https://kling.ai/) through early access for Ultra Yearly subscribers. [Flyne AI](https://flyne.ai/model/kling-4-0/) expects to add support in October 2026; the exact launch date is to be announced.** As of 30 September, the Flyne form selects Kling 3.0 Turbo. Check the selected model before generating.
 <!-- brand-intro:end -->
 
 
@@ -111,7 +111,7 @@ Kling 4.0 has been announced. The currently accessible Flash variant and the pla
 | 3+ character dialogue | Multi-character coreference documented | Group scenes fix speaker, seat, wardrobe and order |
 | Text preservation | Improved preservation of source-image text documented | Approved packaging should be supplied as a reference and checked frame by frame |
 | Official Kling API | Kling AI says **4.0 API access is coming in October** | No 4.0 API model ID, price or request schema is asserted here |
-| Flyne AI availability | 4.0 page says upcoming; form selects **Kling 3.0 Turbo** | Verify the selected model before generating; no stable 4.0 access is asserted |
+| Flyne AI availability | Support expected in **October 2026**; exact date to be announced. The current form selects **Kling 3.0 Turbo** | Verify the selected model before generating; no stable 4.0 access is asserted |
 
 Sources checked 29 September 2026: [Kling AI's 4.0 announcement](https://sg.linkedin.com/company/kling-ai-api), [Kling 4.0 release notes](https://kling.ai/release-note/release-notes/Kling_4?type=dialog), [official Kling Video 3.0 guide](https://app.klingai.com/cn/quickstart/klingai-video-3-model-user-guide), [Kuaishou's 3.0 native 4K update](https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-second-quarter-and-interim-2026), and the [Flyne AI workflow guide](docs/FLYNE.md).
 
@@ -325,7 +325,7 @@ If this library saves you a production test, consider starring the repository an
 
 ## Flyne AI workflow
 
-Open the [Flyne AI Kling 4.0 page](https://flyne.ai/model/kling-4-0/) to follow availability and prepare your next video. As checked on 30 September 2026, the page labels 4.0 as upcoming and its form selects **Kling 3.0 Turbo**. Confirm the actual model before generating; stable 4.0 access on Flyne AI has not been verified.
+**Kling 4.0 Flash is already available on the [official Kling website](https://kling.ai/) through early access for Ultra Yearly subscribers. [Flyne AI](https://flyne.ai/model/kling-4-0/) expects to add support in October 2026; the exact launch date is to be announced.** As of 30 September, the Flyne form selects Kling 3.0 Turbo. Check the selected model before generating.
 
 [Workflow](docs/FLYNE.md)
 

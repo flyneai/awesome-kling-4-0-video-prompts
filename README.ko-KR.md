@@ -15,7 +15,7 @@
 <!-- brand-intro:start -->
 [Flyne AI 사용하기](https://flyne.ai/model/kling-4-0/) · [X 영상과 새 연습](docs/X-VIDEOS.md) · [연습 4개](prompts/inherited-flash-exercises.md)
 
-[Flyne AI Kling 4.0 페이지](https://flyne.ai/model/kling-4-0/)에서 제공 현황을 확인하세요. 2026년 9월 30일 기준 4.0은 출시 예정이며 양식에는 **Kling 3.0 Turbo**가 선택되어 있습니다. 생성 전에 모델을 확인하세요. Flyne AI의 안정적인 4.0 제공은 아직 검증하지 않았습니다.
+**Kling 4.0 Flash는 [공식 사이트](https://kling.ai/)에서 Ultra 연간 구독자에게 먼저 제공되고 있습니다. [Flyne AI](https://flyne.ai/model/kling-4-0/)는 2026년 10월 지원을 시작할 예정이며, 정확한 날짜는 추후 안내합니다.**9월 30일 기준 Flyne에서 선택된 모델은 Kling 3.0 Turbo입니다. 생성 전에 모델을 확인하세요.
 <!-- brand-intro:end -->
 
 
@@ -104,7 +104,7 @@
 
 ## Flyne AI 사용하기
 
-[Flyne AI Kling 4.0 페이지](https://flyne.ai/model/kling-4-0/)에서 제공 현황을 확인하세요. 2026년 9월 30일 기준 4.0은 출시 예정이며 양식에는 **Kling 3.0 Turbo**가 선택되어 있습니다. 생성 전에 모델을 확인하세요. Flyne AI의 안정적인 4.0 제공은 아직 검증하지 않았습니다.
+**Kling 4.0 Flash는 [공식 사이트](https://kling.ai/)에서 Ultra 연간 구독자에게 먼저 제공되고 있습니다. [Flyne AI](https://flyne.ai/model/kling-4-0/)는 2026년 10월 지원을 시작할 예정이며, 정확한 날짜는 추후 안내합니다.**9월 30일 기준 Flyne에서 선택된 모델은 Kling 3.0 Turbo입니다. 생성 전에 모델을 확인하세요.
 
 [사용 방법](docs/FLYNE.md)
 

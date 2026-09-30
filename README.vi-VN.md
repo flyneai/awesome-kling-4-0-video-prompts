@@ -15,7 +15,7 @@
 <!-- brand-intro:start -->
 [Sáng tạo cùng Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video X và bài tập mới](docs/X-VIDEOS.md) · [4 bài tập](prompts/inherited-flash-exercises.md)
 
-Xem [trang Kling 4.0 của Flyne AI](https://flyne.ai/model/kling-4-0/). Ngày 29/09/2026, 4.0 vẫn được ghi là sắp ra mắt và biểu mẫu chọn **Kling 3.0 Turbo**. Kiểm tra tên mô hình trước khi tạo; chưa xác minh quyền truy cập 4.0 ổn định trên Flyne AI.
+**Kling 4.0 Flash đã có trên [trang chính thức](https://kling.ai/) dưới dạng truy cập sớm dành cho người đăng ký Ultra hằng năm. [Flyne AI](https://flyne.ai/model/kling-4-0/) dự kiến hỗ trợ vào tháng 10 năm 2026; ngày cụ thể sẽ được thông báo sau.** Tính đến ngày 30 tháng 9, Flyne đang chọn Kling 3.0 Turbo. Hãy kiểm tra mô hình trước khi tạo video.
 <!-- brand-intro:end -->
 
 
@@ -78,7 +78,7 @@ Tiếng Việt là ngôn ngữ tài liệu của dự án nhưng không nằm tr
 
 ## Sáng tạo cùng Flyne AI
 
-Xem [trang Kling 4.0 của Flyne AI](https://flyne.ai/model/kling-4-0/). Ngày 29/09/2026, 4.0 vẫn được ghi là sắp ra mắt và biểu mẫu chọn **Kling 3.0 Turbo**. Kiểm tra tên mô hình trước khi tạo; chưa xác minh quyền truy cập 4.0 ổn định trên Flyne AI.
+**Kling 4.0 Flash đã có trên [trang chính thức](https://kling.ai/) dưới dạng truy cập sớm dành cho người đăng ký Ultra hằng năm. [Flyne AI](https://flyne.ai/model/kling-4-0/) dự kiến hỗ trợ vào tháng 10 năm 2026; ngày cụ thể sẽ được thông báo sau.** Tính đến ngày 30 tháng 9, Flyne đang chọn Kling 3.0 Turbo. Hãy kiểm tra mô hình trước khi tạo video.
 
 [Cách sử dụng](docs/FLYNE.md)
 

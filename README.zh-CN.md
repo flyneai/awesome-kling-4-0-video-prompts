@@ -22,7 +22,7 @@
 <!-- brand-intro:start -->
 [使用 Flyne AI](https://flyne.ai/model/kling-4-0/) · [X 视频与原创练习](docs/X-VIDEOS.md) · [4 条提示词练习](prompts/inherited-flash-exercises.md)
 
-推荐访问 [Flyne AI Kling 4.0 页面](https://flyne.ai/model/kling-4-0/)，了解开放进展并准备创作。2026-09-30 核对时，页面仍标注 4.0 即将推出，实际表单选择的是 **Kling 3.0 Turbo**。生成前请确认模型名称；目前未核验 Flyne AI 已稳定提供 4.0。
+**Kling 4.0 Flash 已可在[可灵官网](https://kling.ai/)使用，目前向 Ultra／黑金年卡会员开放抢先体验。[Flyne AI](https://flyne.ai/model/kling-4-0/) 预计于 2026 年 10 月上线支持，具体日期另行公布。**截至 9 月 30 日，Flyne 表单仍选择 Kling 3.0 Turbo，生成前请确认实际模型。
 <!-- brand-intro:end -->
 
 
@@ -108,7 +108,7 @@
 | Kling 3.0 已核验的对白语言 | 中、英、日、韩、西 | 完整 4.0 宣布扩展多语言、口音和方言支持；以实际所选模式为准 |
 | 三人及以上对白 | 官方文档描述了多人指代能力 | 固定姓名、座位、服装颜色和发言顺序 |
 | 可灵官方 API | 官方表示 **4.0 API 接入计划于 10 月推出** | 不预填未发布的模型 ID、价格或请求参数 |
-| Flyne AI 当前状态 | 4.0 页面标注即将推出，表单选择 **Kling 3.0 Turbo** | 生成前确认模型，不把当前 Turbo 成片标为 4.0 |
+| Flyne AI 当前状态 | 预计 **2026 年 10 月上线支持**，具体日期另行公布；当前表单选择 **Kling 3.0 Turbo** | 生成前确认模型，不把当前 Turbo 成片标为 4.0 |
 
 资料核验于 2026-09-29：[可灵官方 4.0 公告](https://sg.linkedin.com/company/kling-ai-api)、[4.0 更新说明](https://kling.ai/release-note/release-notes/Kling_4?type=dialog)、[可灵 Video 3.0 使用指南](https://app.klingai.com/cn/quickstart/klingai-video-3-model-user-guide)、[快手 3.0 原生 4K 公告](https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-second-quarter-and-interim-2026)，以及 [Flyne AI 工作流说明](docs/FLYNE.md)。
 
@@ -267,7 +267,7 @@ Flash 值得分别测试**简短直接**和**较长但结构清晰**的提示词
 
 ## 使用 Flyne AI
 
-推荐访问 [Flyne AI Kling 4.0 页面](https://flyne.ai/model/kling-4-0/)，了解开放进展并准备创作。2026-09-30 核对时，页面仍标注 4.0 即将推出，实际表单选择的是 **Kling 3.0 Turbo**。生成前请确认模型名称；目前未核验 Flyne AI 已稳定提供 4.0。
+**Kling 4.0 Flash 已可在[可灵官网](https://kling.ai/)使用，目前向 Ultra／黑金年卡会员开放抢先体验。[Flyne AI](https://flyne.ai/model/kling-4-0/) 预计于 2026 年 10 月上线支持，具体日期另行公布。**截至 9 月 30 日，Flyne 表单仍选择 Kling 3.0 Turbo，生成前请确认实际模型。
 
 [使用步骤](docs/FLYNE.md)
 

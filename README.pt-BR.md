@@ -15,7 +15,7 @@
 <!-- brand-intro:start -->
 [Criar com Flyne AI](https://flyne.ai/model/kling-4-0/) · [Vídeos do X e exercícios originais](docs/X-VIDEOS.md) · [4 exercícios](prompts/inherited-flash-exercises.md)
 
-Veja a [página Kling 4.0 da Flyne AI](https://flyne.ai/model/kling-4-0/). Em 30/09/2026, 4.0 está anunciado para o futuro e o formulário seleciona **Kling 3.0 Turbo**. Confira o modelo antes de gerar; o acesso estável ao 4.0 na Flyne AI não foi verificado.
+**Kling 4.0 Flash já está disponível no [site oficial](https://kling.ai/) em acesso antecipado para assinantes anuais Ultra. A [Flyne AI](https://flyne.ai/model/kling-4-0/) prevê oferecer suporte em outubro de 2026; a data exata será anunciada depois.** Em 30 de setembro, o modelo selecionado na Flyne é Kling 3.0 Turbo. Confira antes de gerar.
 <!-- brand-intro:end -->
 
 
@@ -78,7 +78,7 @@ Português é um idioma de documentação deste projeto, mas não está na lista
 
 ## Criar com Flyne AI
 
-Veja a [página Kling 4.0 da Flyne AI](https://flyne.ai/model/kling-4-0/). Em 30/09/2026, 4.0 está anunciado para o futuro e o formulário seleciona **Kling 3.0 Turbo**. Confira o modelo antes de gerar; o acesso estável ao 4.0 na Flyne AI não foi verificado.
+**Kling 4.0 Flash já está disponível no [site oficial](https://kling.ai/) em acesso antecipado para assinantes anuais Ultra. A [Flyne AI](https://flyne.ai/model/kling-4-0/) prevê oferecer suporte em outubro de 2026; a data exata será anunciada depois.** Em 30 de setembro, o modelo selecionado na Flyne é Kling 3.0 Turbo. Confira antes de gerar.
 
 [Como usar](docs/FLYNE.md)
 

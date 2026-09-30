@@ -15,7 +15,7 @@ Prompts prácticos de vídeo con IA para cine, anuncios de producto, UGC, diálo
 <!-- brand-intro:start -->
 [Crear con Flyne AI](https://flyne.ai/model/kling-4-0/) · [Vídeos de X y ejercicios originales](docs/X-VIDEOS.md) · [4 ejercicios](prompts/inherited-flash-exercises.md)
 
-Consulta la [página Kling 4.0 de Flyne AI](https://flyne.ai/model/kling-4-0/). El 30 de septiembre de 2026, 4.0 figura como próximo lanzamiento y el formulario selecciona **Kling 3.0 Turbo**. Confirma el modelo antes de generar; no hemos verificado acceso estable a 4.0 en Flyne AI.
+**Kling 4.0 Flash ya está disponible en el [sitio oficial](https://kling.ai/) con acceso anticipado para suscriptores Ultra anuales. [Flyne AI](https://flyne.ai/model/kling-4-0/) prevé incorporarlo en octubre de 2026; la fecha exacta se anunciará más adelante.** Al 30 de septiembre, Flyne selecciona Kling 3.0 Turbo. Comprueba el modelo antes de generar.
 <!-- brand-intro:end -->
 
 
@@ -105,7 +105,7 @@ Fuentes oficiales: [anuncio de Kling AI 3.0 por Kuaishou](https://ir.kuaishou.co
 
 ## Crear con Flyne AI
 
-Consulta la [página Kling 4.0 de Flyne AI](https://flyne.ai/model/kling-4-0/). El 30 de septiembre de 2026, 4.0 figura como próximo lanzamiento y el formulario selecciona **Kling 3.0 Turbo**. Confirma el modelo antes de generar; no hemos verificado acceso estable a 4.0 en Flyne AI.
+**Kling 4.0 Flash ya está disponible en el [sitio oficial](https://kling.ai/) con acceso anticipado para suscriptores Ultra anuales. [Flyne AI](https://flyne.ai/model/kling-4-0/) prevé incorporarlo en octubre de 2026; la fecha exacta se anunciará más adelante.** Al 30 de septiembre, Flyne selecciona Kling 3.0 Turbo. Comprueba el modelo antes de generar.
 
 [Cómo usarlo](docs/FLYNE.md)
 

@@ -15,7 +15,7 @@
 <!-- brand-intro:start -->
 [Berkreasi dengan Flyne AI](https://flyne.ai/model/kling-4-0/) · [Video X dan latihan orisinal](docs/X-VIDEOS.md) · [4 latihan](prompts/inherited-flash-exercises.md)
 
-Kunjungi [halaman Kling 4.0 Flyne AI](https://flyne.ai/model/kling-4-0/). Pada 30 September 2026, 4.0 masih akan hadir dan formulir memilih **Kling 3.0 Turbo**. Periksa model sebelum membuat video; akses stabil ke 4.0 di Flyne AI belum diverifikasi.
+**Kling 4.0 Flash sudah tersedia di [situs resmi](https://kling.ai/) melalui akses awal bagi pelanggan Ultra tahunan. [Flyne AI](https://flyne.ai/model/kling-4-0/) berencana menambahkan dukungan pada Oktober 2026; tanggal pastinya akan diumumkan kemudian.** Per 30 September, Flyne memilih Kling 3.0 Turbo. Periksa model sebelum membuat video.
 <!-- brand-intro:end -->
 
 
@@ -78,7 +78,7 @@ Bahasa Indonesia adalah bahasa dokumentasi proyek, tetapi tidak termasuk dalam d
 
 ## Berkreasi dengan Flyne AI
 
-Kunjungi [halaman Kling 4.0 Flyne AI](https://flyne.ai/model/kling-4-0/). Pada 30 September 2026, 4.0 masih akan hadir dan formulir memilih **Kling 3.0 Turbo**. Periksa model sebelum membuat video; akses stabil ke 4.0 di Flyne AI belum diverifikasi.
+**Kling 4.0 Flash sudah tersedia di [situs resmi](https://kling.ai/) melalui akses awal bagi pelanggan Ultra tahunan. [Flyne AI](https://flyne.ai/model/kling-4-0/) berencana menambahkan dukungan pada Oktober 2026; tanggal pastinya akan diumumkan kemudian.** Per 30 September, Flyne memilih Kling 3.0 Turbo. Periksa model sebelum membuat video.
 
 [Cara menggunakan](docs/FLYNE.md)
 
