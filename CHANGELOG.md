@@ -1,3 +1,9 @@
+# X examples and practical prompts — 2026-09-30
+
+- Expand from 12 to 18 source-linked cases with continuous takes, reference sheets, Japanese production and a full-prompt dialogue comparison.
+- Add four untested original exercises with setup, copyable prompts, checks and revision advice.
+- Refresh homepage previews and distinguish partial screenshots from published prompt text.
+
 # Flash availability and Flyne schedule — 2026-09-30
 
 - Clarify official Kling 4.0 Flash early access and Flyne AI’s expected October 2026 support in all 15 language homepages and the workflow guide.

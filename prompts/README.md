@@ -8,7 +8,7 @@ This catalog contains **52 original production prompts** grouped into thirteen c
 
 ## Additional practice collections
 
-The inherited catalog below still contains 52 recipes. The inherited [practice collection](inherited-flash-exercises.md) contains four untested, complete briefs: label stability, light/reflection continuity, a persistent stamped mark, and two-person dialogue. Also try [two Flyne AI exercises](flyne-practice.md) for dialogue and audio-reference planning. Watch the [12 linked X cases](../docs/X-VIDEOS.md) and compare their source prompts with these original exercises.
+The inherited catalog below still contains 52 recipes. The inherited [practice collection](inherited-flash-exercises.md) contains four untested, complete briefs: label stability, light/reflection continuity, a persistent stamped mark, and two-person dialogue. Also try [two Flyne AI exercises](flyne-practice.md) for dialogue and audio-reference planning. Try [four more practical prompts](x-inspired-practice.md) for continuous takes, fictional casting, reference sheets and timed dialogue. Watch the [18 linked X cases](../docs/X-VIDEOS.md) and compare their source prompts with these original exercises.
 
 ## Choose by goal
 

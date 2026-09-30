@@ -343,5 +343,173 @@
     ],
     "rights": "External author media; linked only, not covered by repository MIT license",
     "is_new": true
+  },
+  {
+    "id": "2104634610629980283",
+    "title": "Single-prompt continuous take",
+    "title_zh": "单条提示词长镜头",
+    "creator": "Min Choi",
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi/status/2104634610629980283",
+    "posted": "Mon Sep 28 18:09:28 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 (creator-described; Flash not specified)",
+    "prompt_url": null,
+    "prompt_status": "not-published",
+    "lesson": "The author describes a single prompt and no cuts, but does not publish the prompt. Use this as a continuity study, not proof of Flash duration limits.",
+    "lesson_zh": "作者称使用单条提示词且没有剪切，但未公开提示词。适合研究长镜头连续性，不能据此推断 Flash 的时长上限。",
+    "exercise": "../prompts/x-inspired-practice.md#long-take",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104634107770638337/vid/avc1/1080x1920/DXHGjQS6hhO4rsBF.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104634107770638337/img/Zu3sG7ZvBZ7Ng25V.jpg",
+        "duration": 30.041,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
+  },
+  {
+    "id": "2104676090233151927",
+    "title": "Text-to-video without named actors",
+    "title_zh": "不指定演员的文生视频",
+    "creator": "Ozan Sihay",
+    "handle": "ozansihay",
+    "url": "https://x.com/ozansihay/status/2104676090233151927",
+    "posted": "Mon Sep 28 20:54:17 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 (creator-described; Flash not specified)",
+    "prompt_url": null,
+    "prompt_status": "not-published",
+    "lesson": "The creator says no actor or TV-show name was requested. Describe fictional casting, visible behavior and setting rather than treating an accidental likeness as identity control.",
+    "lesson_zh": "作者称提示词没有指定演员或剧名。练习时用虚构人物外形、行为和环境来控制画面，不把偶然相似当作身份控制能力。",
+    "exercise": "../prompts/x-inspired-practice.md#casting",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104675865070104576/vid/avc1/1280x720/grgRqKV_-W_gGdpn.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104675865070104576/img/5WxoMwDabxCtoqMj.jpg",
+        "duration": 20.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
+  },
+  {
+    "id": "2104687711525490961",
+    "title": "Omni Reference and character-sheet instructions",
+    "title_zh": "多模态参考与人物三视图用法",
+    "creator": "Ozan Sihay",
+    "handle": "ozansihay",
+    "url": "https://x.com/ozansihay/status/2104687711525490961",
+    "posted": "Mon Sep 28 21:40:28 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "native-x-public-thread-and-fxtwitter-metadata",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/ozansihay/status/2104687714800992598",
+    "prompt_status": "partial-screenshot-at-source",
+    "lesson": "A reply shows a prompt screenshot with character sheets: each sheet represents one person, not multiple cast members. The visible screenshot is incomplete; it is not a full copyable prompt.",
+    "lesson_zh": "作者回复附提示词截图，明确每份人物多角度参考只代表一人，不要把参考图的不同视角生成多个角色。截图可见内容不完整，不标成完整提示词。",
+    "exercise": "../prompts/x-inspired-practice.md#references",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104687513444978688/vid/avc1/1280x720/fRuDvmZaafmLzOze.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104687513444978688/img/b0a0IlXgzKwFK1M9.jpg",
+        "duration": 20.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
+  },
+  {
+    "id": "2104600267887145254",
+    "title": "Japanese dialogue and a longer edited story",
+    "title_zh": "日语对白与长片制作分享",
+    "creator": "とうや",
+    "handle": "towya_aillust",
+    "url": "https://x.com/towya_aillust/status/2104600267887145254",
+    "posted": "Mon Sep 28 15:53:00 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 early access (creator-described; Flash not confirmed)",
+    "prompt_url": null,
+    "prompt_status": "not-published",
+    "lesson": "The author describes combining character sheets, voice references and multiple clips into a longer Japanese-language production. Treat the upload as a finished presentation, not a single generation or a Flash feature guarantee.",
+    "lesson_zh": "作者介绍将人物多角度参考、声音参考和多个片段组合成日语长片。上传内容是成片展示，不能当作单次生成时长或 Flash 功能保证。",
+    "exercise": "../prompts/x-inspired-practice.md#references",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104598500319363072/vid/avc1/1920x1080/TIpAbL80-XRmgfUN.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104598500319363072/img/j4ERZh1dCcIU5Xm3.jpg",
+        "duration": 249.041,
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
+  },
+  {
+    "id": "2104690941194100858",
+    "title": "Short photoreal test and cost reporting",
+    "title_zh": "短片写实测试与成本记录",
+    "creator": "あぎ",
+    "handle": "agi_aibusi",
+    "url": "https://x.com/agi_aibusi/status/2104690941194100858",
+    "posted": "Mon Sep 28 21:53:18 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": null,
+    "prompt_status": "not-published",
+    "lesson": "The creator reports a low cost for a five-second test. Account-specific cost claims do not establish universal pricing; record actual model, duration, audio and charged credits for your own comparison.",
+    "lesson_zh": "作者分享五秒测试的成本体验。个人账户费用不能当成通用定价；对比时应记录实际模型、时长、声音设置与扣费。",
+    "exercise": "../prompts/x-inspired-practice.md#casting",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104688806490415104/vid/avc1/1280x720/q2WlBUBgh4R79mmW.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104688806490415104/img/OwEb9nyZcwe-7KR3.jpg",
+        "duration": 5.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
+  },
+  {
+    "id": "2104706256963244436",
+    "title": "Published dialogue prompt and same-brief comparison",
+    "title_zh": "公开对白提示词与同提示词对比",
+    "creator": "Pan",
+    "handle": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2104706256963244436",
+    "posted": "Mon Sep 28 22:54:09 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "native-x-public-thread-and-fxtwitter-metadata",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/sebatheepan/status/2104706256963244436",
+    "prompt_status": "published-at-source",
+    "lesson": "This reply contains the Kling clip and full timed dialogue prompt. Its parent shows Seedance first. The six shot labels describe cuts despite the author calling the generation one take. Study the final five seconds, mug continuity, turn-taking and the quiet reaction; do not infer a model ranking from one pair.",
+    "lesson_zh": "这条回复才是 Kling 视频，附完整时间轴对白提示词；主帖首段是 Seedance。作者所谓一次生成包含六个分镜，不能理解为一镜到底。重点看最后五秒、杯子位置、轮流说话及无对白反应，不用单组样本给模型排名。",
+    "exercise": "../prompts/x-inspired-practice.md#dialogue-comparison",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104706027337678848/vid/avc1/1280x720/513Ysks5HPHZdYxN.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104706027337678848/img/9jqceggPW1bwjP5Z.jpg",
+        "duration": 20.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
   }
 ]

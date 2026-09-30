@@ -1,0 +1,96 @@
+{
+  "checked": "2026-09-30",
+  "scope": "six added cases; URL accessibility only, not playback",
+  "results": [
+    {
+      "id": "2104634610629980283",
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2104634107770638337/vid/avc1/1080x1920/DXHGjQS6hhO4rsBF.mp4?tag=29",
+      "status": 200,
+      "method": "HEAD"
+    },
+    {
+      "id": "2104634610629980283",
+      "type": "poster",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2104634107770638337/img/Zu3sG7ZvBZ7Ng25V.jpg",
+      "method": "GET",
+      "head_error": "HTTP Error 403: Forbidden",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "2104676090233151927",
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2104675865070104576/vid/avc1/1280x720/grgRqKV_-W_gGdpn.mp4?tag=29",
+      "status": 200,
+      "method": "HEAD"
+    },
+    {
+      "id": "2104676090233151927",
+      "type": "poster",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2104675865070104576/img/5WxoMwDabxCtoqMj.jpg",
+      "method": "GET",
+      "head_error": "HTTP Error 403: Forbidden",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "2104687711525490961",
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2104687513444978688/vid/avc1/1280x720/fRuDvmZaafmLzOze.mp4?tag=29",
+      "status": 200,
+      "method": "HEAD"
+    },
+    {
+      "id": "2104687711525490961",
+      "type": "poster",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2104687513444978688/img/b0a0IlXgzKwFK1M9.jpg",
+      "method": "GET",
+      "head_error": "HTTP Error 403: Forbidden",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "2104600267887145254",
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2104598500319363072/vid/avc1/1920x1080/TIpAbL80-XRmgfUN.mp4?tag=29",
+      "status": 200,
+      "method": "HEAD"
+    },
+    {
+      "id": "2104600267887145254",
+      "type": "poster",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2104598500319363072/img/j4ERZh1dCcIU5Xm3.jpg",
+      "method": "GET",
+      "head_error": "HTTP Error 403: Forbidden",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "2104690941194100858",
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2104688806490415104/vid/avc1/1280x720/q2WlBUBgh4R79mmW.mp4?tag=29",
+      "status": 200,
+      "method": "HEAD"
+    },
+    {
+      "id": "2104690941194100858",
+      "type": "poster",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2104688806490415104/img/OwEb9nyZcwe-7KR3.jpg",
+      "method": "GET",
+      "head_error": "HTTP Error 403: Forbidden",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "2104706256963244436",
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2104706027337678848/vid/avc1/1280x720/513Ysks5HPHZdYxN.mp4?tag=29",
+      "status": 200,
+      "method": "HEAD"
+    },
+    {
+      "id": "2104706256963244436",
+      "type": "poster",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2104706027337678848/img/9jqceggPW1bwjP5Z.jpg",
+      "method": "GET",
+      "head_error": "HTTP Error 403: Forbidden",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

@@ -40,6 +40,8 @@ new=re.findall(r'```text\n([\s\S]*?)```',(ROOT/'prompts/inherited-flash-exercise
 require(len(new)==4,'Expected 4 inherited exercises')
 flyne=re.findall(r'```text\n([\s\S]*?)```',(ROOT/'prompts/flyne-practice.md').read_text())
 require(len(flyne)==2,'Expected 2 Flyne practice prompts')
+practice=re.findall(r'```text\n([\s\S]*?)```',(ROOT/'prompts/x-inspired-practice.md').read_text())
+require(len(practice)==4,'Expected 4 new X-inspired exercises')
 for name in ROOT.glob('README*.md'):
     s=name.read_text()
     require('videoweb' not in s.lower(), name.name+': obsolete brand mention')
@@ -49,8 +51,8 @@ for name in ROOT.glob('README*.md'):
     require('https://github.com/flaqai/awesome-kling-4-0' not in s,name.name+': obsolete adaptation introduction')
     require(s.count('<!-- brand-intro:start -->')==1,name.name+': duplicate brand intro')
 cases=json.loads((ROOT/'data/x-cases.json').read_text())
-require(len(cases)==len({c['id'] for c in cases})==12,'Duplicate or missing cases')
-require(sum(c['is_new'] for c in cases)==2,'Expected 2 added X cases')
+require(len(cases)==len({c['id'] for c in cases})==18,'Duplicate or missing cases')
+require(sum(c['is_new'] for c in cases)==8,'Expected 8 added X cases')
 for c in cases:
     require(c['checked'] and c['verification'] and c['rights'],c['id']+': missing provenance')
     if c['is_new']:require(c['exercise'] and c['videos'] and c['model_claim'],c['id']+': incomplete new case')
@@ -59,4 +61,4 @@ for c in cases:
         require(urlsplit(v['poster']).hostname=='pbs.twimg.com',c['id']+': unexpected thumbnail source')
 license=(ROOT/'LICENSE').read_text();require('2026 Flaq AI' in license and '2026 aivideoweb' in license,'Copyright notices missing')
 if errors:print('\n'.join(errors));sys.exit(1)
-print(f'OK: {len(files)} Markdown files, {count} local links, {total} inherited + {len(new)} inherited exercises + {len(flyne)} Flyne exercises, {len(cases)} X cases')
+print(f'OK: {len(files)} Markdown files, {count} local links, {total} inherited + {len(new)} inherited exercises + {len(flyne)+len(practice)} Flyne exercises, {len(cases)} X cases')

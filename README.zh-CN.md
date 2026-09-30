@@ -36,24 +36,24 @@
 <!-- video-showcase:start -->
 ## 先看案例，再复制提示词
 
-12 个带来源的视频案例：10 个继承案例，加上双人对白与音乐流程两个新案例。原提示词仅在作者公开时提供链接，另写练习均未实测。
+18 个带来源的案例。下面展示本轮新增内容，可查看作者公开的提示词或注明不完整的截图，再尝试另写的原创练习。
 
 <table><tr>
-<td width="450" valign="top"><a href="https://x.com/sebatheepan/status/2104653409227829496"><img src="https://pbs.twimg.com/amplify_video_thumb/2104651572806389760/img/BxlyNR2SeyZGjBGk.jpg" width="450" alt="包装文字测试"></a><br><strong>包装文字测试</strong><br><a href="https://x.com/sebatheepan/status/2104653409227829496">@sebatheepan · X</a><br><a href="https://x.com/sebatheepan/status/2104653409227829496">Creator prompt / 原提示词</a><br><a href="prompts/inherited-flash-exercises.md#1-label-card-under-a-moving-light">Separate practice / 另写练习</a></td>
-<td width="450" valign="top"><a href="https://x.com/sebatheepan/status/2104653412738666699"><img src="https://pbs.twimg.com/amplify_video_thumb/2104652399608520704/img/VLGd5kt6EehzR2vc.jpg" width="450" alt="实景光源与阴影"></a><br><strong>实景光源与阴影</strong><br><a href="https://x.com/sebatheepan/status/2104653412738666699">@sebatheepan · X</a><br><a href="https://x.com/sebatheepan/status/2104653412738666699">Creator prompt / 原提示词</a><br><a href="prompts/inherited-flash-exercises.md#2-lantern-reflection-in-a-ceramic-studio">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/minchoi/status/2104634610629980283"><img src="https://pbs.twimg.com/amplify_video_thumb/2104634107770638337/img/Zu3sG7ZvBZ7Ng25V.jpg" width="450" alt="单条提示词长镜头"></a><br><strong>单条提示词长镜头</strong><br><a href="https://x.com/minchoi/status/2104634610629980283">@minchoi · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#long-take">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/ozansihay/status/2104676090233151927"><img src="https://pbs.twimg.com/amplify_video_thumb/2104675865070104576/img/5WxoMwDabxCtoqMj.jpg" width="450" alt="不指定演员的文生视频"></a><br><strong>不指定演员的文生视频</strong><br><a href="https://x.com/ozansihay/status/2104676090233151927">@ozansihay · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#casting">Separate practice / 另写练习</a></td>
 </tr></table>
 
 <table><tr>
-<td width="450" valign="top"><a href="https://x.com/sebatheepan/status/2104653416123551799"><img src="https://pbs.twimg.com/amplify_video_thumb/2104652961645281280/img/VUZpR_d8xcmLEcdz.jpg" width="450" alt="连续动作与物体保留"></a><br><strong>连续动作与物体保留</strong><br><a href="https://x.com/sebatheepan/status/2104653416123551799">@sebatheepan · X</a><br><a href="https://x.com/sebatheepan/status/2104653416123551799">Creator prompt / 原提示词</a><br><a href="prompts/inherited-flash-exercises.md#3-parcel-stamp-with-a-persistent-mark">Separate practice / 另写练习</a></td>
-<td width="450" valign="top"><a href="https://x.com/sebatheepan/status/2104653420112032191"><img src="https://pbs.twimg.com/amplify_video_thumb/2104653013130391552/img/SH6juKNUM7jxVuxw.jpg" width="450" alt="双人情绪对白"></a><br><strong>双人情绪对白</strong><br><a href="https://x.com/sebatheepan/status/2104653420112032191">@sebatheepan · X</a><br><a href="https://x.com/sebatheepan/status/2104653420112032191">Creator prompt / 原提示词</a><br><a href="prompts/inherited-flash-exercises.md#4-closing-time-umbrella-exchange">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/ozansihay/status/2104687711525490961"><img src="https://pbs.twimg.com/amplify_video_thumb/2104687513444978688/img/b0a0IlXgzKwFK1M9.jpg" width="450" alt="多模态参考与人物三视图用法"></a><br><strong>多模态参考与人物三视图用法</strong><br><a href="https://x.com/ozansihay/status/2104687711525490961">@ozansihay · X</a><br><a href="https://x.com/ozansihay/status/2104687714800992598">Partial screenshot / 局部截图</a><br><a href="prompts/x-inspired-practice.md#references">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/towya_aillust/status/2104600267887145254"><img src="https://pbs.twimg.com/amplify_video_thumb/2104598500319363072/img/j4ERZh1dCcIU5Xm3.jpg" width="450" alt="日语对白与长片制作分享"></a><br><strong>日语对白与长片制作分享</strong><br><a href="https://x.com/towya_aillust/status/2104600267887145254">@towya_aillust · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#references">Separate practice / 另写练习</a></td>
 </tr></table>
 
 <table><tr>
-<td width="450" valign="top"><a href="https://x.com/WolfRiccardo/status/2104613767212359878"><img src="https://pbs.twimg.com/amplify_video_thumb/2104613041253801985/img/W0NcFCK1IcNA2EVb.jpg" width="450" alt="双人对白与连续表演"></a><br><strong>双人对白与连续表演</strong><br><a href="https://x.com/WolfRiccardo/status/2104613767212359878">@WolfRiccardo · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/flyne-practice.md#dialogue">Separate practice / 另写练习</a></td>
-<td width="450" valign="top"><a href="https://x.com/simonmeyer_/status/2104635206439198880"><img src="https://pbs.twimg.com/amplify_video_thumb/2104635060255088640/img/OhPo2tQSMrOrmGe7.jpg" width="450" alt="音乐视频与音频参考流程"></a><br><strong>音乐视频与音频参考流程</strong><br><a href="https://x.com/simonmeyer_/status/2104635206439198880">@simonmeyer_ · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/flyne-practice.md#music">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/agi_aibusi/status/2104690941194100858"><img src="https://pbs.twimg.com/amplify_video_thumb/2104688806490415104/img/OwEb9nyZcwe-7KR3.jpg" width="450" alt="短片写实测试与成本记录"></a><br><strong>短片写实测试与成本记录</strong><br><a href="https://x.com/agi_aibusi/status/2104690941194100858">@agi_aibusi · X</a><br>Full prompt unavailable / 未公开完整提示词<br><a href="prompts/x-inspired-practice.md#casting">Separate practice / 另写练习</a></td>
+<td width="450" valign="top"><a href="https://x.com/sebatheepan/status/2104706256963244436"><img src="https://pbs.twimg.com/amplify_video_thumb/2104706027337678848/img/9jqceggPW1bwjP5Z.jpg" width="450" alt="公开对白提示词与同提示词对比"></a><br><strong>公开对白提示词与同提示词对比</strong><br><a href="https://x.com/sebatheepan/status/2104706256963244436">@sebatheepan · X</a><br><a href="https://x.com/sebatheepan/status/2104706256963244436">Creator prompt / 原提示词</a><br><a href="prompts/x-inspired-practice.md#dialogue-comparison">Separate practice / 另写练习</a></td>
 </tr></table>
 
-[All 12 cases / 全部案例](docs/X-VIDEOS.md) · [4 inherited exercises / 继承练习](prompts/inherited-flash-exercises.md) · [2 Flyne exercises / 新增练习](prompts/flyne-practice.md)
+[All cases / 全部案例](docs/X-VIDEOS.md) · [4 inherited exercises / 继承练习](prompts/inherited-flash-exercises.md) · [2 Flyne exercises / 原有练习](prompts/flyne-practice.md) · [4 new exercises / 本轮新增练习](prompts/x-inspired-practice.md)
 <!-- video-showcase:end -->
 
 ## 一分钟找到合适的提示词
@@ -89,7 +89,7 @@
 - **15 种项目语言：** 提供本地化导航与快速模板，并明确区分“文档语言”和“模型原生语音能力”。
 - **六张本地视觉素材：** 包含 Flyne AI 封面和五张场景参考图，详见[图片素材清单](assets/images/README.md)中的素材说明。
 - **生产检查体系：** 画幅、摄影机、人物与产品一致性、声音时间轴、迭代记录、版权和发布前检查。
-- **Flash 创作者案例：** 共 12 个（10 个继承、2 个新增），另有 4 条继承练习及 2 条 Flyne AI 新练习及自行车灯入门提示词。
+- **Flash 创作者案例：** 共 18 个（10 个继承、8 个新增），另有 4 条继承练习及 6 条 Flyne AI 练习及自行车灯入门提示词。
 - **Flyne AI 使用说明：** 介绍网页测试、参考图准备及实际模型核对。
 
 ## 模型版本与兼容性
