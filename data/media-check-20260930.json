@@ -1,0 +1,150 @@
+{
+  "checked": "2026-09-30",
+  "method": "Video HEAD; thumbnail GET; HTTP access only, not playback verification",
+  "results": [
+    {
+      "id": "2104595267794460949",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104595267794460949",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104829034299351079",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104829034299351079",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104810060811833710",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104810060811833710",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104867308514779222",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104867308514779222",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104597949485629557",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104597949485629557",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104597949485629557",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104597949485629557",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653409227829496",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653409227829496",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653412738666699",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653412738666699",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653416123551799",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653416123551799",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653420112032191",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104653420112032191",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104613767212359878",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104613767212359878",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104635206439198880",
+      "kind": "video",
+      "status": "200",
+      "error": ""
+    },
+    {
+      "id": "2104635206439198880",
+      "kind": "poster",
+      "status": "200",
+      "error": ""
+    }
+  ]
+}

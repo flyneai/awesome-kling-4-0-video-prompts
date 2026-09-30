@@ -1,0 +1,347 @@
+[
+  {
+    "id": "2104595267794460949",
+    "title": "Continuous nighttime cat chase",
+    "title_zh": "夜间猫咪连续跟拍",
+    "creator": "Umesh",
+    "handle": "umesh_ai",
+    "url": "https://x.com/umesh_ai/status/2104595267794460949",
+    "posted": "Mon Sep 28 15:33:07 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/umesh_ai/status/2104595270671724936",
+    "prompt_status": "published-at-source",
+    "lesson": "A connected route and one physical event per location.",
+    "lesson_zh": "一条连贯路线，每个地点安排一个明确动作。",
+    "exercise": null,
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104595110025658368/vid/avc1/1280x720/frO9PQ-J56eGYKDH.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104595110025658368/img/4BUI1rEfXshGtg_k.jpg",
+        "duration": 20.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104829034299351079",
+    "title": "Anime concert transformation",
+    "title_zh": "动画演唱会变换",
+    "creator": "OscarAI",
+    "handle": "Artedeingenio",
+    "url": "https://x.com/Artedeingenio/status/2104829034299351079",
+    "posted": "Tue Sep 29 07:02:02 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/Artedeingenio/status/2104829034299351079",
+    "prompt_status": "published-at-source",
+    "lesson": "Compare a concise action chain against an expanded directing brief.",
+    "lesson_zh": "比较简洁动作链与详细分镜，记录实际执行差异。",
+    "exercise": null,
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104828898588405760/vid/avc1/1280x720/kie1T5B0_sX6X4Vm.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104828898588405760/img/q7eGEDuMR8wMbrii.jpg",
+        "duration": 20.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104810060811833710",
+    "title": "Reference-led weather change",
+    "title_zh": "角色参考与天气变化",
+    "creator": "とすくん",
+    "handle": "tokyo_Valentine",
+    "url": "https://x.com/tokyo_Valentine/status/2104810060811833710",
+    "posted": "Tue Sep 29 05:46:38 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/tokyo_Valentine/status/2104810064750239987",
+    "prompt_status": "published-at-source",
+    "lesson": "Separate identity instructions from weather and scene changes.",
+    "lesson_zh": "把角色外观与天气、场景变化分开写。",
+    "exercise": null,
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104809259066437632/vid/avc1/3840x2160/GjUPlehz3YqhuEK7.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104809259066437632/img/DaGdU4HaPGHn4WBO.jpg",
+        "duration": 15.041,
+        "width": 3840,
+        "height": 2160
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104878440889417957",
+    "title": "Acting, action and reference notes",
+    "title_zh": "表演、动作与参考素材经验",
+    "creator": "Alexandra Dekimpe / AI Filmmaker",
+    "handle": "HadesDesign",
+    "url": "https://x.com/HadesDesign/status/2104878440889417957",
+    "posted": "Tue Sep 29 10:18:21 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": null,
+    "prompt_status": "article",
+    "lesson": "An article with production observations; use visible behavior and explicit action order.",
+    "lesson_zh": "文章包含制作经验；把情绪写成可见动作，明确先后顺序。",
+    "exercise": null,
+    "videos": [],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104867308514779222",
+    "title": "Hindi skincare dialogue",
+    "title_zh": "印地语护肤对白",
+    "creator": "Aswin Aji Raj",
+    "handle": "Aswin_Aji_Raj",
+    "url": "https://x.com/Aswin_Aji_Raj/status/2104867308514779222",
+    "posted": "Tue Sep 29 09:34:07 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": null,
+    "prompt_status": "not-published-in-post",
+    "lesson": "Review language, lip sync and claims separately; the full prompt is not public in this post.",
+    "lesson_zh": "分别检查语言、嘴型与产品宣称；该帖未公开完整提示词。",
+    "exercise": null,
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104867261672718336/vid/avc1/1440x1920/GF9PVdp0G2Gx5Zdj.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104867261672718336/img/FgQA5nVdkbDRZ7fw.jpg",
+        "duration": 20.033,
+        "width": 1440,
+        "height": 1920
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104597949485629557",
+    "title": "3.0 versus Flash comparison",
+    "title_zh": "3.0 与 Flash 对照",
+    "creator": "ρŁ𝐀𝔰Ｍʘ",
+    "handle": "plasm0",
+    "url": "https://x.com/plasm0/status/2104597949485629557",
+    "posted": "Mon Sep 28 15:43:47 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described; comparison also includes 3.0)",
+    "prompt_url": null,
+    "prompt_status": "not-published-in-post",
+    "lesson": "Keep prompt and inputs fixed. Two clips are not a general benchmark.",
+    "lesson_zh": "固定提示词与输入；两段对照不是普遍性能结论。",
+    "exercise": null,
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104597724813234176/vid/avc1/1288x1608/FcduSurTdwImcHM5.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104597724813234176/img/6ivZWGcmycc107wF.jpg",
+        "duration": 10.041,
+        "width": 1288,
+        "height": 1608
+      },
+      {
+        "url": "https://video.twimg.com/amplify_video/2104597724800659456/vid/avc1/856x1072/EKPC1LB736oJiCrl.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104597724800659456/img/4T2UdObOCKE1Q02C.jpg",
+        "duration": 10.041,
+        "width": 856,
+        "height": 1072
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104653409227829496",
+    "title": "Packaging typography test",
+    "title_zh": "包装文字测试",
+    "creator": "Pan",
+    "handle": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2104653409227829496",
+    "posted": "Mon Sep 28 19:24:09 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "native-x-expanded-and-fxtwitter-metadata",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/sebatheepan/status/2104653409227829496",
+    "prompt_status": "published-at-source",
+    "lesson": "Inspect lettering and silhouette frame by frame. A prompt asking for 4K does not prove output resolution.",
+    "lesson_zh": "逐帧检查文字与轮廓；提示词要求 4K 不等于输出已达 4K。",
+    "exercise": "../prompts/inherited-flash-exercises.md#1-label-card-under-a-moving-light",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104651572806389760/vid/avc1/1280x720/dMKcJGoOgq9H1Y10.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104651572806389760/img/BxlyNR2SeyZGjBGk.jpg",
+        "duration": 5.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104653412738666699",
+    "title": "Practical light and shadows",
+    "title_zh": "实景光源与阴影",
+    "creator": "Pan",
+    "handle": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2104653412738666699",
+    "posted": "Mon Sep 28 19:24:10 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "native-x-expanded-and-fxtwitter-metadata",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/sebatheepan/status/2104653412738666699",
+    "prompt_status": "published-at-source",
+    "lesson": "Check whether highlights follow a moving light. A web clip cannot establish 10-bit HDR encoding.",
+    "lesson_zh": "检查高光是否跟随光源；网页视频不能证明 10-bit HDR 编码。",
+    "exercise": "../prompts/inherited-flash-exercises.md#2-lantern-reflection-in-a-ceramic-studio",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104652399608520704/vid/avc1/1280x720/9TbQR3m-a6yW3tmM.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104652399608520704/img/VLGd5kt6EehzR2vc.jpg",
+        "duration": 5.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104653416123551799",
+    "title": "Sequential-action continuity",
+    "title_zh": "连续动作与物体保留",
+    "creator": "Pan",
+    "handle": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2104653416123551799",
+    "posted": "Mon Sep 28 19:24:11 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "native-x-expanded-and-fxtwitter-metadata",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/sebatheepan/status/2104653416123551799",
+    "prompt_status": "published-at-source",
+    "lesson": "Describe contact, consequence and the final resting position separately.",
+    "lesson_zh": "分别写清接触、结果与最终位置。",
+    "exercise": "../prompts/inherited-flash-exercises.md#3-parcel-stamp-with-a-persistent-mark",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104652961645281280/vid/avc1/1280x720/AqZHEeIPLe85wX3s.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104652961645281280/img/VUZpR_d8xcmLEcdz.jpg",
+        "duration": 10.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104653420112032191",
+    "title": "Two-speaker emotional dialogue",
+    "title_zh": "双人情绪对白",
+    "creator": "Pan",
+    "handle": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2104653420112032191",
+    "posted": "Mon Sep 28 19:24:12 +0000 2026",
+    "checked": "2026-09-29",
+    "verification": "native-x-expanded-and-fxtwitter-metadata",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": "https://x.com/sebatheepan/status/2104653420112032191",
+    "prompt_status": "published-at-source",
+    "lesson": "Assign lines, pauses and persistent props. The source brief has inconsistent shot-count labels; follow timed beats when studying it.",
+    "lesson_zh": "分配台词、停顿与固定道具；原文镜头数量标注不一致，学习时应对照时间段。",
+    "exercise": "../prompts/inherited-flash-exercises.md#4-closing-time-umbrella-exchange",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104653013130391552/vid/avc1/1280x720/hLBjOKr_UYwCKfML.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104653013130391552/img/SH6juKNUM7jxVuxw.jpg",
+        "duration": 20.041,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": false,
+    "inherited_from": "aivideoweb/awesome-kling-4-0-prompts"
+  },
+  {
+    "id": "2104613767212359878",
+    "title": "Two-person dialogue and continuous acting",
+    "title_zh": "双人对白与连续表演",
+    "creator": "Riccardo Wolf",
+    "handle": "WolfRiccardo",
+    "url": "https://x.com/WolfRiccardo/status/2104613767212359878",
+    "posted": "Mon Sep 28 16:46:38 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 Flash (creator-described)",
+    "prompt_url": null,
+    "prompt_status": "not-published",
+    "lesson": "The creator reports continuity and British-accent dialogue. Full prompt and settings are not published here; use fixed speaker positions and one line at a time in the separate exercise.",
+    "lesson_zh": "作者介绍了人物连续性和英式口音对白，原帖没有完整提示词与参数。另写练习用固定站位和轮流说话来测试这些问题。",
+    "exercise": "../prompts/flyne-practice.md#dialogue",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104613041253801985/vid/avc1/1280x720/0DYpsvXwRZkVoytq.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104613041253801985/img/W0NcFCK1IcNA2EVb.jpg",
+        "duration": 13.646,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
+  },
+  {
+    "id": "2104635206439198880",
+    "title": "Music video and audio-reference workflow",
+    "title_zh": "音乐视频与音频参考流程",
+    "creator": "Simon Mayr",
+    "handle": "simonmeyer_",
+    "url": "https://x.com/simonmeyer_/status/2104635206439198880",
+    "posted": "Mon Sep 28 18:11:50 +0000 2026",
+    "checked": "2026-09-30",
+    "verification": "fxtwitter-public-mirror",
+    "model_claim": "Kling 4.0 early access (creator-described; not confirmed as Flash)",
+    "prompt_url": null,
+    "prompt_status": "not-published",
+    "lesson": "Sponsored creator workflow: a music track carried in a black-frame video plus character stills. The 108.583-second upload is a finished presentation, not proof of one-pass generation. Full prompt is not published.",
+    "lesson_zh": "作者披露为赞助内容，介绍用黑画面承载音乐并结合人物静帧的方法。108.583 秒是发布成片时长，不代表单次生成能力；没有公开完整提示词。",
+    "exercise": "../prompts/flyne-practice.md#music",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104635060255088640/vid/avc1/1920x1080/WwXEvpx00YB6QuDV.mp4?tag=29",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2104635060255088640/img/OhPo2tQSMrOrmGe7.jpg",
+        "duration": 108.583,
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "rights": "External author media; linked only, not covered by repository MIT license",
+    "is_new": true
+  }
+]
